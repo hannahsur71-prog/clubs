@@ -1,97 +1,99 @@
-# Crystal – Personal Statement Outline (v3)
+# Crystal – Personal Statement Outline (v4)
 
-**Working title:** *The Art of Noticing* (her own phrase)
-**Core idea:** Her dad never had the privilege of questioning racism; for him it was just normal. She grew up in Queens with the privilege of never having to notice it. Then, in Roslyn, she learned to notice everything. The microaggressions stacked up until she walked away from her friends and went quiet. The essay argues that her quiet isn't emptiness. It's where she learned to see clearly, and it's why she won't be walked over again.
+**Working title:** *Keep Walking*
+**Structure:** A braided essay. The Walmart moment is split into three parts and returns throughout the essay. Between the returns, the body shows who Crystal is. Everything is told through one lens: **she is someone who stops and notices what others walk past.**
 **Limit:** 650 words. Target ~630.
 
-> [Brackets] = HER real details only. Sample lines show the style. She rewrites them in her own voice.
+> [Brackets] = HER real details only. Sample lines show the style. She rewrites everything in her own voice.
+
+```
+WALMART 1  → the slur, "Keep walking," she freezes
+   BODY 1  → the art of noticing (who she became)
+WALMART 2  → Dad at the end of the aisle, why he walks
+   BODY 2  → the quiet (who she is now, and how she prepared)
+WALMART 3  → back in the aisle, knowing what she'd say now
+REFLECTION → what stopping means, and the ending
+```
 
 ---
 
-## 1. Opening: Allentown Walmart (~120 words)
-Present tense, starting in the moment.
-- The boys yelling "ching chong." Her face burning. Dad not reacting.
+## WALMART 1: the freeze (~100 words)
+Present tense, starting in the moment. End by freezing the frame.
+- The boys, the slur quoted exactly, Dad not reacting, her face burning.
 - *"Did you not just hear what they said?"* / *"Forget it. Keep walking."*
-- He walks. She freezes.
+- He walks. Her feet don't move.
 
-> *The automatic doors had barely closed behind us when I heard it. "Ching chong!" [Three boys by the carts], laughing. My dad didn't turn his head. My face burned. "Did you not just hear what they said?" "Forget it," he said. "Keep walking." He did. I couldn't.*
+> *Sample: "Ching chong!" [Three boys by the carts] laugh. My dad doesn't turn his head. My face burns. "Did you not just hear what they said?" "Forget it. Keep walking." He does. My feet don't move. In some ways, I'm still standing in that aisle.*
 
-## 2. Dad: no privilege to question (~70 words)
-The first big idea. Compassion, not blame.
-- He grew up in [a white area / where]. Comments like this were just the weather. Questioning them was a luxury he didn't have.
-- Keep walking wasn't indifference. It was survival.
+## BODY 1: the art of noticing (~140 words)
+**Who she became.** Keep Queens and Roslyn to one line each so this section doesn't get busy.
+- Queens, one line: *[In Queens, I never had to notice I was Korean.]*
+- Roslyn: she started noticing everything. Show 3 real "friend" comments, each followed by how she brushed it off:
 
-> *For my dad, "keep walking" wasn't a choice. Growing up in [place], it was just how you got through the day. He never had the luxury of stopping to ask why.*
+> *"[comment]" I laughed.*
+> *"[comment]" I laughed louder.*
+> *"[comment]" I said nothing.*
 
-## 3. Queens: the privilege of not noticing (~70 words)
-A short flashback full of color. This is the "spark."
-- Specific sensory details of her Queens childhood: [the block, the languages she heard, friends' names, food, the bus, a playground].
-- The point: in Queens she never had to think about being Korean. That was its own privilege.
-- Show her as she was then: loud, happy, [something specific she did].
-- Optional: *"My sister says I used to be the loudest kid on the block."* Using her sister's view is a nice way to show the change without complaining.
+- One line on the breaking point: *[the day it stacked up]*, she stopped being friends with all of them.
+- ⚠️ Real comments only. Describe what "friends" said, never who they are.
 
-## 4. Roslyn: the stack (~170 words), the bulk
-They move to Roslyn. She learns "the art of noticing."
-- **Show the microaggressions as a stack**: 4–6 short real quotes from "friends," each followed by how she brushed it off. The rhythm makes the reader feel it pile up.
+## WALMART 2: Dad at the end of the aisle (~70 words)
+Go back to the aisle. Dad has reached the end and turns around.
+- Why he keeps walking: he grew up in [where], where comments like this were normal. He never had the privilege of stopping to question them. Walking was survival.
+- Compassion, not blame.
 
-> *"[You're so pretty for an Asian.]" I laughed.*
-> *"[Can you even see with your eyes like that?]" I laughed louder.*
-> *"[Do your parents even speak English?]" I changed the subject.*
-> *"[…]" I said nothing.*
+> *Sample: At the end of the aisle, my dad turns around and waits. He learned to keep walking in [place], where stopping was never an option.*
 
-  (⚠️ Use only what was actually said to her. These are placeholders.)
-- **The breaking point**: one specific day and one specific comment, the one that finally tipped it over. Slow this moment down. Where was she, who said it, what did she do?
-- **She walks away.** She stops being friends with all of them. The irony: after Walmart, she was the one who couldn't keep walking. Now she finally does, but walking away from people who kept hurting her is the opposite of what her dad meant.
-
-⚠️ Refer to them only as "friends" or by what they did. Never identify them by religion or ethnicity.
-
-## 5. The quiet (~110 words)
-Honest about the cost, then the turn.
-- What isolation looked like: [eating lunch alone, the library, headphones, not texting back].
-- The spark people notice is gone. People call her quiet.
-- **But quiet was where she started preparing.** She wasn't going to be blindsided again, frozen like at Walmart or laughing along like with her friends. Her search history, as a short list, shows it. **The searches should move from confusion, to understanding, to a plan:**
+## BODY 2: the quiet (~160 words)
+**Who she is now: entirely her.** The quiet girl that people underestimate. Pick **2** details that are specifically her, not all of them:
+- People call her quiet. [Her sister/others say she used to have a spark.] What the quiet actually is: listening, watching, noticing.
+- **The search history**, her preparation so she's never blindsided again. It moves from confusion, to understanding, to a plan:
 
 > *why do I laugh when people say racist things*
 > *what is a microaggression*
-> *why do people say ching chong*
 > *history of anti-Asian racism in America*
-> *Vincent Chin*
 > *what to say when a friend makes a racist joke*
-> *how to respond to racism calmly without starting a fight*
+> *how to respond to racism calmly*
 
-  (⚠️ Her real searches or questions only. 5–7 lines max, lowercase so it looks real.)
-- One line right after the list, for example: *[I wasn't going to be caught frozen again. The next time, I'd know what to say.]*
-- This is the only unusual format in the essay. Everything else stays as normal paragraphs.
-- The line that turns the essay: people see a quiet girl, but the quiet is where the knowledge is. [Her version of: *"Quiet isn't the same as silent."*]
+  (⚠️ Her real searches only. 4–6 lines.)
+- ONE detail from her life that shows she notices what others walk past. Choose one:
+  - Behind the Superfood counter: how customers speak to her dad vs. to her.
+  - HAVEN: giving sick kids a voice when people look away.
+  - [Something else that's only her.]
 
-## 6. Close: noticing on purpose (~90 words)
-- The freeze at Walmart, the stack, the quiet: they all taught her to notice what others walk past.
-- She doesn't brush things off anymore. People tell her to walk away, even when it's that serious. She doesn't.
-- **Payoff for the search history:** show ONE brief real moment where the preparation worked, where she wasn't blindsided: [she calmly calls out a comment, corrects someone, speaks up for her dad or a younger kid, or at the Superfood counter]. One or two sentences with dialogue.
-- End on an image that echoes the opening. For example, *keep walking* flipped: she's still standing there, not frozen anymore but choosing to stay.
+## WALMART 3: back in the aisle (~70 words)
+She goes back to the frozen moment, but this time she's prepared.
+- She imagines standing there now: what she'd say to the boys, calmly, in one sentence.
+- If she has a **real** recent moment where she spoke up, put it here instead (better).
 
-> *Sample style: People still tell me to keep walking. I've learned to stand still instead: quietly, on purpose, with my eyes open.*
+> *Sample: If I were in that aisle today, I wouldn't freeze. I'd turn around and say, "[her words]." Then I'd walk, not away, but out, with my head up.*
 
-(The anthropology/philosophy connection stays implied: noticing why people act as they do, and what we owe each other. Don't name the majors here. Save that for the Northwestern supplement.)
+## REFLECTION AND ENDING (~90 words)
+The reflection reframes the whole essay:
+- **Her dad kept walking so she could afford to stop.** His silence gave her the privilege of questioning. Stopping is how she honors him, not how she rejects him.
+- Her conviction, in her words: people tell her to walk away and brush past it, even when it's that serious. She won't.
+- End on the image of the aisle. The last line = an action, not a lesson.
+
+> *Sample ending: My dad kept walking so that one day I could afford to stop. People still tell me to keep walking. I understand why. But I'm staying in the aisle, quiet, eyes open, ready this time.*
+
+(Anthropology/philosophy stays implied: noticing why people act the way they do, and what we owe each other. Name the majors in the Northwestern supplement, not here.)
 
 ---
 
-## Things to be careful with
-- **The isolation.** Show it honestly, but make sure the ending shows she came out stronger and reconnected with the world (HAVEN, family, her community). Readers should finish thinking "resilient," not "still struggling."
-- **Dad.** Understanding, not criticism. The privilege contrast (he couldn't question it; she could) is one of the smartest ideas in the essay.
-- **The friends.** Describe what they said, not who they are. No group generalizations.
-- **Superfood** is now just one line at most, in the ending if it fits.
-- **Tone.** Quiet strength, not anger. Understatement hits harder.
-- Scenes ~65%, reflection ~35%. No "This taught me that…"
+## Rules
+- Walmart appears **3 times**. Each return is short and moves the scene forward.
+- Every body detail must answer: **how does this show she notices what others walk past?** If it doesn't, cut it.
+- Queens and Roslyn = background, not sections.
+- Tone: quiet strength. Understatement. No "This taught me that…"
+- The ending has to feel resilient, not still hurt.
 
 ## Questions for her
-1. Walmart: her age and the exact details. When was it compared to the move to Roslyn?
-2. Where did Dad grow up, and one thing that shows he learned to "keep walking"?
-3. Queens: 2–3 specific memories or details from when she had the spark.
-4. The real microaggressions from Roslyn "friends," word for word if she remembers, and how she reacted to each.
-5. The breaking point: what exactly happened that day?
-6. What did the quiet period look like? What did she read, search or learn?
-7. One recent moment where she didn't brush it off.
+1. Walmart: her age, what they were buying, exact details, and what happened right after (did Dad come back?).
+2. Where Dad grew up, in one line.
+3. 3 real comments from Roslyn "friends" and how she reacted.
+4. Her real searches or questions from the quiet period.
+5. One thing about her life that only she would write, the detail that makes this essay hers.
+6. What she'd say to those boys now, or a real moment she spoke up.
 
 ## Notes saved from earlier
 - "Young children of color are taught to just get over it."
