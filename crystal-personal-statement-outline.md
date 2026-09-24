@@ -49,21 +49,25 @@ They move to Roslyn. She learns "the art of noticing."
 Honest about the cost, then the turn.
 - What isolation looked like: [eating lunch alone, the library, headphones, not texting back].
 - The spark people notice is gone. People call her quiet.
-- **But quiet was where she started learning.** She read, searched and watched. Her search history, as a short list, shows what was happening inside:
+- **But quiet was where she started preparing.** She wasn't going to be blindsided again, frozen like at Walmart or laughing along like with her friends. Her search history, as a short list, shows it. **The searches should move from confusion, to understanding, to a plan:**
 
 > *why do I laugh when people say racist things*
 > *what is a microaggression*
+> *why do people say ching chong*
 > *history of anti-Asian racism in America*
 > *Vincent Chin*
-> *how to respond to racism without starting a fight*
+> *what to say when a friend makes a racist joke*
+> *how to respond to racism calmly without starting a fight*
 
-  (⚠️ Her real searches or questions only. 4–6 lines max.)
+  (⚠️ Her real searches or questions only. 5–7 lines max, lowercase so it looks real.)
+- One line right after the list, for example: *[I wasn't going to be caught frozen again. The next time, I'd know what to say.]*
+- This is the only unusual format in the essay. Everything else stays as normal paragraphs.
 - The line that turns the essay: people see a quiet girl, but the quiet is where the knowledge is. [Her version of: *"Quiet isn't the same as silent."*]
 
 ## 6. Close: noticing on purpose (~90 words)
 - The freeze at Walmart, the stack, the quiet: they all taught her to notice what others walk past.
 - She doesn't brush things off anymore. People tell her to walk away, even when it's that serious. She doesn't.
-- Show ONE brief real moment that proves it now: [she calmly calls out a comment, corrects someone, speaks up for her dad or a younger kid, or at the Superfood counter]. One or two sentences with dialogue.
+- **Payoff for the search history:** show ONE brief real moment where the preparation worked, where she wasn't blindsided: [she calmly calls out a comment, corrects someone, speaks up for her dad or a younger kid, or at the Superfood counter]. One or two sentences with dialogue.
 - End on an image that echoes the opening. For example, *keep walking* flipped: she's still standing there, not frozen anymore but choosing to stay.
 
 > *Sample style: People still tell me to keep walking. I've learned to stand still instead: quietly, on purpose, with my eyes open.*
