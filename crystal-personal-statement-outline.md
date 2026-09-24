@@ -2,14 +2,14 @@
 
 **Working title:** *Keep Walking*
 **Central image:** At a Walmart in Allentown, boys yell "ching chong." Her dad keeps walking. She freezes, and she never really walks away from it.
-**The arc:** Freezing starts as shame (she can't move). It becomes a choice: she's the person who **stops** where everyone else is taught to keep walking. The whole essay follows how that frozen moment turned into the way she lives.
+**The arc:** Freeze (Walmart) → loop of replaying it → search history (preparing, understanding) → next time at Superfood she speaks up, calm and firm → reflection. She goes from being walked over to being someone who won't be.
 **Limit:** 650 words. Target ~620.
 
 > [Brackets] = HER real details only. The sample lines show the *style*. She should rewrite them in her own words.
 
 ---
 
-## 1. The scene: Allentown Walmart (~150 words)
+## 1. The scene: Allentown Walmart (~140 words)
 Present tense. Start in motion, with no intro sentence.
 - Details: [her age], [what they came to buy], [a sensory detail: the automatic doors, the cold air, the cart wheel, fluorescent lights].
 - The boys: where they were, how many, the sound of it. Quote the slur exactly. Readers need to hear it.
@@ -24,7 +24,7 @@ Present tense. Start in motion, with no intro sentence.
 End the section with one short line, in its own paragraph:
 > *I never really walked away.*
 
-## 2. Why Dad kept walking (~90 words)
+## 2. Why Dad kept walking (~70 words)
 This section gives the essay nuance. Don't make Dad the villain.
 - What he's lived through: [immigrant, the store, years of comments like this]. Walking away was how he survived and protected her.
 - Her line, in her words: children of color are taught to just get over it.
@@ -32,25 +32,34 @@ This section gives the essay nuance. Don't make Dad the villain.
 
 > *…For him, walking away wasn't weakness. It was how he'd survived. But I couldn't make my feet do it.*
 
-## 3. Staying frozen: the bulk (~250 words)
-Two or three short, specific scenes where **she stops when others walk past**. The word "walk," "stop," or "freeze" should come back lightly in each one (repeat the motif, not a slogan).
+## 3. The search history: breaking the loop (~120 words)
+This is the turning point. After Walmart she replays the moment on a loop. Then she stops replaying and starts preparing. Show it as her actual search history, formatted as a list:
 
-**Scene A: behind the counter at Superfood (main one, ~130 words)**
-- Her hands at work: trimming chicken, cutting radish for banchan, labeling, the phone ringing.
-- A real moment: [a customer mocking Dad's accent, being impatient with Mom, talking to her instead of her parents, or an elderly Korean customer ignored somewhere else].
-- What she does: she doesn't let it pass. [She answers, translates, corrects, holds eye contact, or simply stays and listens.] The point is the choice to stay.
-- The mirror: she's on the other side of the counter now, and she decides how people get treated.
+> *[date] 11:47 PM*
+> *why didn't I say anything*
+> *what to say when someone says ching chong*
+> *why do people say ching chong*
+> *history of anti-Asian slurs in America*
+> *Vincent Chin*
+> *how to respond to racism calmly*
+> *how to stand up for your parents without making it worse*
 
-**Scene B: the performative part (~70 words)**
-- People who [posted #StopAsianHate / diversity statements] but [walked past, laughed along, said nothing in person]. Use only if true, with one concrete example.
-- Be honest about herself too: [a time she wanted credit, e.g. posting about HAVEN]. This keeps it from sounding judgmental.
+**The searches must go from shame, to anger, to understanding, to a plan.** That progression shows her growth without a single "I learned" sentence. It also shows she's curious about the history behind people's behavior, which is the anthropologist in her.
+- ⚠️ Use things she actually searched or genuinely wondered. 5–8 lines max. Keep her real lowercase and typos if it feels natural.
+- One or two sentences after the list, e.g. *"I wasn't going to be caught frozen again."*
 
-**Scene C: optional, ~50 words**
-- HAVEN, stopping to look at sick kids others look away from; OR the church kids she refuses to teach to "get over it." Pick one only if words allow.
+## 4. Behind the counter: the next time (~170 words), the bulk
+The payoff. She's behind the register at Superfood, and something happens: [a real moment where a customer mocks her dad's accent, is rude to her mom, or makes a comment].
+- Open with her hands at work: trimming chicken, cutting radish for banchan, the phone ringing with an order.
+- The moment happens. Slow it down: what was said, what her dad did (keeps walking again?).
+- **This time she doesn't freeze.** What she says, exactly. Quote it.
+- Show strength as **calm and firm, not loud**. Steady voice, eye contact, one clear sentence. That's more powerful on the page than yelling, and it shows she prepared.
+- How it ended, and her dad's reaction (even a small look).
+- If there's room, one line on the performative point: the people who post about standing up for others are rarely the ones who actually do it at the register.
 
-## 4. Reflection and close (~130 words)
+## 5. Reflection and close (~120 words)
 Reframe the freeze. This is where her thinking shows.
-- Freezing wasn't weakness. It was the first time she refused to pretend she didn't hear.
+- Freezing wasn't weakness. It was the first time she refused to pretend she didn't hear. Preparing was how she made sure she'd never be caught silent again.
 - Her conviction, in her words: people tell her to walk away and brush past things, even when they're that serious.
 - What she wants to understand now: why people learn to walk past (anthropology) and what we owe each other when we don't (philosophy). **Imply it. Don't name the majors.**
 - **End on an image, not a lesson.** Options (she picks only what's real):
@@ -74,12 +83,15 @@ Reframe the freeze. This is where her thinking shows.
 ## Things to avoid
 - Don't describe the boys beyond what they did. The fact that they were white can appear once, factually, if it's essential. Don't generalize about any group.
 - Don't criticize Dad. Show compassion for him.
-- Don't list activities. Section 3 is scenes, not a résumé.
+- Don't list activities.
+- Don't write "not taking BS" or sound aggressive. Show strength through a calm, prepared response.
+- The search history is the only unusual format. Everything else stays as normal prose so it doesn't feel gimmicky.
 
 ## Questions for her to answer
 1. Walmart: her age, what they were buying, where the boys were, exactly what she saw and heard, and what happened right after (did Dad come back for her?).
 2. What does she understand now about why Dad kept walking?
-3. One real Superfood moment where someone was treated badly and she didn't let it pass.
+3. Her real searches (or questions she wondered) after Walmart.
+3b. One real Superfood moment where she spoke up. Exactly what she said and how it ended.
 4. A real example of performative kindness she saw, and one time she caught herself doing it.
 5. What does "staying" look like in her life now?
 
