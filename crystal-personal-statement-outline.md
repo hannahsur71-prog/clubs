@@ -1,79 +1,89 @@
-# Crystal – Personal Statement Outline
+# Crystal – Personal Statement Outline (v2)
 
-**Working title:** *Both Sides of the Counter*
-**Core idea:** As a child she stood on the customer side of a grocery counter and was treated as less than. Now she stands behind the counter at her family's store. The register is where she learned how people treat others when they think nobody important is watching, and it's where she decides every day to do the opposite.
+**Working title:** *Keep Walking*
+**Central image:** At a Walmart in Allentown, boys yell "ching chong." Her dad keeps walking. She freezes, and she never really walks away from it.
+**The arc:** Freezing starts as shame (she can't move). It becomes a choice: she's the person who **stops** where everyone else is taught to keep walking. The whole essay follows how that frozen moment turned into the way she lives.
 **Limit:** 650 words. Target ~620.
 
-> Everything in [brackets] must be HER real memory. Don't invent details. Readers can tell.
+> [Brackets] = HER real details only. The sample lines show the *style*. She should rewrite them in her own words.
 
 ---
 
-## 1. Opening scene: Sunny's Market, as a child (~120 words)
-Put the reader in the moment immediately. No intro, no thesis.
-- Where she's standing, how old she is, who she's with (Mom? Dad?).
-- One or two sensory details: [the sound of the scanner, the conveyor belt, what's in the cart].
-- The exact words or action from the cashier or customer. Use dialogue if she remembers it.
-- Her reaction in her body, not an emotion word: [staring at the gum rack, her face going hot, squeezing her mom's sleeve].
-- **End the paragraph without explaining it.** Let the moment sit.
+## 1. The scene: Allentown Walmart (~150 words)
+Present tense. Start in motion, with no intro sentence.
+- Details: [her age], [what they came to buy], [a sensory detail: the automatic doors, the cold air, the cart wheel, fluorescent lights].
+- The boys: where they were, how many, the sound of it. Quote the slur exactly. Readers need to hear it.
+- Dad: what his face and body did. He didn't flinch.
+- Her body: face burning, hands, feet.
+- Dialogue: *"Did you not just hear what they said?"* / Dad: *"Forget it. Keep walking."*
+- Last beat: he walks, she doesn't.
 
-**Telling (avoid):** "The cashier was racist to my mom and I felt humiliated."
-**Showing:** "The cashier repeated '*Paper or plastic?*' slower and louder, like my mother was the problem. Mom smiled and said nothing. I stared at the gum rack until my eyes stung."
+**Sample style (not to copy):**
+> *The automatic doors had barely closed behind us when I heard it. "Ching chong!" Three boys by the [shopping carts], laughing like it was the funniest thing they'd said all day. My dad didn't even turn his head. My face burned. "Did you not just hear what they said?" "Forget it," he said. "Keep walking." He did. My feet didn't move.*
 
-⚠️ Don't name the real store, and don't identify people by race or religion. Say "a corner market," "the cashier," or "a woman behind us."
+End the section with one short line, in its own paragraph:
+> *I never really walked away.*
 
-## 2. "Get over it" (~80 words)
-What she was taught to do afterward.
-- Who told her to let it go? [parents, teachers, other adults, or nobody said anything]
-- Use her line: young children of color are taught to just get over it.
-- Show what "getting over it" looked like for her: [translating before her mom could speak, answering for her parents, packing a different lunch, going quiet].
+## 2. Why Dad kept walking (~90 words)
+This section gives the essay nuance. Don't make Dad the villain.
+- What he's lived through: [immigrant, the store, years of comments like this]. Walking away was how he survived and protected her.
+- Her line, in her words: children of color are taught to just get over it.
+- The tension: she understands why he did it, and she still can't do it herself.
 
-## 3. Hard cut: behind the counter at Superfood (~130 words)
-Jump years forward. Mirror the first scene exactly, but now she's on the other side.
-- Start with her hands at work: trimming chicken, cutting radish for banchan, labeling containers, the phone ringing with an order.
-- Then someone comes to the register. Choose ONE real moment:
-  - an elderly Korean customer struggling with English, and she slows down and switches languages; or
-  - a customer being short with her mom, and now she's the one who has to respond; or
-  - a small kid with a parent, like she used to be.
-- Show what she chooses to do in that moment.
+> *…For him, walking away wasn't weakness. It was how he'd survived. But I couldn't make my feet do it.*
 
-## 4. What the counter taught her (~130 words): the heart of the essay
-This is where her thinking shows. It's the anthropology and philosophy, without saying either word.
-- From behind a register you see how people behave when they think no one is watching: who says thank you, who doesn't look at the cashier, who's kind only when someone is filming.
-- Tie this to her performative point: people post about kindness, but the checkout line shows what they're really like.
-- One sharp, original sentence she'd actually say, for example: [*"The checkout line is the most honest place I know."*]
-- Be honest about herself: she has caught herself wanting credit too (HAVEN, her TikTok). Admitting that makes the essay believable instead of preachy.
+## 3. Staying frozen: the bulk (~250 words)
+Two or three short, specific scenes where **she stops when others walk past**. The word "walk," "stop," or "freeze" should come back lightly in each one (repeat the motif, not a slogan).
 
-## 5. What she does with it (~80 words)
-Keep this short, with ONE or two examples. Don't list activities.
-- Translating for her parents in quiet moments that nobody sees.
-- HAVEN: giving sick kids a voice instead of pity.
-- Teaching Korean American kids at church.
+**Scene A: behind the counter at Superfood (main one, ~130 words)**
+- Her hands at work: trimming chicken, cutting radish for banchan, labeling, the phone ringing.
+- A real moment: [a customer mocking Dad's accent, being impatient with Mom, talking to her instead of her parents, or an elderly Korean customer ignored somewhere else].
+- What she does: she doesn't let it pass. [She answers, translates, corrects, holds eye contact, or simply stays and listens.] The point is the choice to stay.
+- The mirror: she's on the other side of the counter now, and she decides how people get treated.
 
-## 6. Ending: back to the counter (~80 words)
-Echo the opening image. Don't end with a moral or "I learned that…".
-- A kid in line at Superfood, the same age she was at Sunny's. What she does or says that no one did for her.
-- OR the same words from the opening ("*Paper or plastic?*"), now said by her, the way they should have been said.
-- End on an action or image and a question she's still asking.
+**Scene B: the performative part (~70 words)**
+- People who [posted #StopAsianHate / diversity statements] but [walked past, laughed along, said nothing in person]. Use only if true, with one concrete example.
+- Be honest about herself too: [a time she wanted credit, e.g. posting about HAVEN]. This keeps it from sounding judgmental.
+
+**Scene C: optional, ~50 words**
+- HAVEN, stopping to look at sick kids others look away from; OR the church kids she refuses to teach to "get over it." Pick one only if words allow.
+
+## 4. Reflection and close (~130 words)
+Reframe the freeze. This is where her thinking shows.
+- Freezing wasn't weakness. It was the first time she refused to pretend she didn't hear.
+- Her conviction, in her words: people tell her to walk away and brush past things, even when they're that serious.
+- What she wants to understand now: why people learn to walk past (anthropology) and what we owe each other when we don't (philosophy). **Imply it. Don't name the majors.**
+- **End on an image, not a lesson.** Options (she picks only what's real):
+  - Back at Superfood: a kid in line the age she was at Walmart. She stops.
+  - Her dad now: has anything changed? Does he ever stop with her?
+  - A return to the words "keep walking," flipped: she's still standing there, on purpose.
+
+**Sample ending style (not to copy):**
+> *People still tell me to keep walking. Some things are too heavy to walk past. So I stay: at the register, in the aisle, in the moment everyone else hurries through. I'm still standing in that Walmart. Only now I'm not frozen. I chose to stay.*
 
 ---
 
-## Show, don't tell: quick rules
-- Swap emotion words (sad, angry, humiliated) for **physical actions**.
-- Use **exact dialogue** from real moments.
-- Use **specific nouns**: banchan, susemi, radish, the store's sign, Mom's apron, not "food" or "stuff."
-- Keep reflection to **~35%** of the essay. The rest is scenes.
-- Cut sentences that explain a scene the reader already understood.
+## Show, don't tell: rules for this essay
+- Use no emotion words (humiliated, angry, sad). Use physical reactions instead.
+- Quote real dialogue. Keep it short.
+- Scenes ~65%, reflection ~35%.
+- Use specific nouns: Walmart, banchan, radish, the register, Dad's [jacket/hands].
+- Repeat the motif ("walk," "freeze," "stay") 3–4 times. Don't overdo it.
+- Last line = image or action. Never "This taught me that…"
 
-## Questions for her to answer (bullets are fine)
-1. The Sunny's Market moment: her age, who she was with, **exactly** what was said or done, what she did with her hands and eyes.
-2. Has it happened more than once? Pick the ONE most vivid.
-3. Who told her to "get over it," or how did she learn to?
-4. A specific moment at Superfood that echoes it: a customer, her mom, a kid, a phone call.
-5. What does she notice about how people treat her at the register?
-6. Has she ever done something partly to be seen as good? When?
-7. What would she say to her younger self in that line?
+## Things to avoid
+- Don't describe the boys beyond what they did. The fact that they were white can appear once, factually, if it's essential. Don't generalize about any group.
+- Don't criticize Dad. Show compassion for him.
+- Don't list activities. Section 3 is scenes, not a résumé.
+
+## Questions for her to answer
+1. Walmart: her age, what they were buying, where the boys were, exactly what she saw and heard, and what happened right after (did Dad come back for her?).
+2. What does she understand now about why Dad kept walking?
+3. One real Superfood moment where someone was treated badly and she didn't let it pass.
+4. A real example of performative kindness she saw, and one time she caught herself doing it.
+5. What does "staying" look like in her life now?
 
 ## Notes saved from earlier
-- "Young children of color are taught to just get over it." (her words; use them)
-- She's a human being who noticed people are treated badly and nobody cares; kindness has become performative.
-- Racism shaped who she is: this is the key theme.
+- "Young children of color are taught to just get over it."
+- People tell her to walk away and brush past it, even when it's that serious.
+- Kindness has become performative: people help others just to be seen as good.
