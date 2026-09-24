@@ -68,13 +68,19 @@ She goes back to the frozen moment, but this time she's prepared.
 
 > *Sample: If I were in that aisle today, I wouldn't freeze. I'd turn around and say, "[her words]." Then I'd walk, not away, but out, with my head up.*
 
-## REFLECTION AND ENDING (~90 words)
-The reflection reframes the whole essay:
-- **Her dad kept walking so she could afford to stop.** His silence gave her the privilege of questioning. Stopping is how she honors him, not how she rejects him.
-- Her conviction, in her words: people tell her to walk away and brush past it, even when it's that serious. She won't.
-- End on the image of the aisle. The last line = an action, not a lesson.
+## REFLECTION AND ENDING (~100 words)
+**Her reflection, in her words:** you don't have to downplay racist experiences just because society tells you to toughen up. Let them make you vulnerable, and let them shape how you move through the world.
 
-> *Sample ending: My dad kept walking so that one day I could afford to stop. People still tell me to keep walking. I understand why. But I'm staying in the aisle, quiet, eyes open, ready this time.*
+How it connects to the essay:
+- "Keep walking" = what society (and Dad, out of survival) says: toughen up, brush it off.
+- Her freeze in the aisle wasn't weakness. It was the first time she let it matter.
+- Vulnerability and strength aren't opposites: she felt it fully *and* prepared herself (search history). That's the balance.
+- Dad kept walking so she could afford to stop. Her vulnerability is a privilege he gave her.
+- **The walking motif pays off:** she doesn't stop walking forever. She lets it change *how* she walks.
+
+> *Sample ending: People told me to toughen up, to keep walking. But pretending it didn't hurt never made anyone stronger. It just made them quiet. My dad kept walking so that one day I could afford to stop. So I let it change me. I still walk through that Walmart, through Roslyn, through every room where someone might say it again. I just walk differently now: slower, eyes open, ready.*
+
+(She rewrites this in her own words. The last line should be an image of her moving through the world, not a lesson.)
 
 (Anthropology/philosophy stays implied: noticing why people act the way they do, and what we owe each other. Name the majors in the Northwestern supplement, not here.)
 
@@ -85,7 +91,7 @@ The reflection reframes the whole essay:
 - Every body detail must answer: **how does this show she notices what others walk past?** If it doesn't, cut it.
 - Queens and Roslyn = background, not sections.
 - Tone: quiet strength. Understatement. No "This taught me that…"
-- The ending has to feel resilient, not still hurt.
+- The ending should show vulnerability and strength together: she still feels it, and she's ready.
 
 ## Questions for her
 1. Walmart: her age, what they were buying, exact details, and what happened right after (did Dad come back?).
@@ -99,4 +105,5 @@ The reflection reframes the whole essay:
 - "Young children of color are taught to just get over it."
 - People tell her to walk away and brush past it, even when it's that serious.
 - Kindness has become performative.
+- Reflection: don't downplay racist experiences because society says toughen up; let them make you vulnerable and shape how you move through the world.
 - (Sister's view) She used to have a cute, happy spark. Now she's quiet, but inside she's strong, with so much knowledge and awareness.
