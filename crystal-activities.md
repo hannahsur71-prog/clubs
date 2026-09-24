@@ -8,10 +8,10 @@ Every description below is ≤150 characters, position ≤50 and organization �
 ---
 
 ### 1. Family Business
-- **Position:** Cashier, Translator & Marketing Assistant
+- **Position:** Translator, Prep Cook, Cashier & Marketing
 - **Organization:** Superfood, My Family's Korean Food Store
-- **Description:** Break language barriers as Korean/English translator for immigrant parents; designed menus & ads that grew sales 50%+; run register, cook & deliver
-- ⚠️ "cook": original said "food prep." "Break language barriers" is in the first words because it's the barrier she knows best.
+- **Description:** Translate for immigrant parents; prep banchan (trim chicken, cut radish), pack, label & restock; run register & phone orders; my ads helped sales +50%
+- Alt description: Break language barriers for immigrant parents; prep banchan & meat, pack, label, restock; run register & phone orders; designed menus/ads; sales +50%
 - ⚠️ Hours: 54 hr/wk during the school year is not believable (see hours note below).
 
 ### 2. The HAVEN Project
