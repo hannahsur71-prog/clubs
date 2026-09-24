@@ -78,9 +78,9 @@ How it connects to the essay:
 - Dad kept walking so she could afford to stop. Her vulnerability is a privilege he gave her.
 - **The walking motif pays off:** she doesn't stop walking forever. She lets it change *how* she walks.
 
-> *Sample ending: People told me to toughen up, to keep walking. But pretending it didn't hurt never made anyone stronger. It just made them quiet. My dad kept walking so that one day I could afford to stop. So I let it change me. I still walk through that Walmart, through Roslyn, through every room where someone might say it again. I just walk differently now: slower, eyes open, ready.*
+> *Sample ending: People told me to toughen up, to keep walking. But pretending it didn't hurt never made anyone stronger. It just made them quiet. My dad kept walking so that one day I could afford to stop. So I let it change me. I haven't been back to that Walmart in years. But I carry that aisle with me: down the hallways at school, behind the counter at [Superfood], into every room where someone might say it again. I just walk differently now: slower, eyes open, ready.*
 
-(She rewrites this in her own words. The last line should be an image of her moving through the world, not a lesson.)
+(She rewrites this in her own words. The last line should be an image of her moving through the world, not a lesson. Use only places she really goes now.)
 
 (Anthropology/philosophy stays implied: noticing why people act the way they do, and what we owe each other. Name the majors in the Northwestern supplement, not here.)
 
