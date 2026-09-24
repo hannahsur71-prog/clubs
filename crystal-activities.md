@@ -1,6 +1,6 @@
 # Crystal – Common App Activities (Revised)
 
-**Spike:** A Korean American daughter of immigrant shopkeepers who translates between two worlds, and uses art, media and handmade work to give visibility to people who get overlooked (immigrant families, sick kids, teens with body-image struggles).
+**Spike:** A Korean American daughter of immigrants who has spent her life breaking down barriers for people who get overlooked: translating for her immigrant family, fighting stigma around illness, and raising awareness of pressures teens face. She wants to study the systems behind inequality (anthropology) and what fairness requires (philosophy).
 
 Every description below is ≤150 characters, position ≤50 and organization ≤100 (all checked).
 ⚠️ = a detail I added or reworded. Confirm it's true before submitting.
@@ -10,14 +10,14 @@ Every description below is ≤150 characters, position ≤50 and organization �
 ### 1. Family Business
 - **Position:** Cashier, Translator & Marketing Assistant
 - **Organization:** Superfood, My Family's Korean Food Store
-- **Description:** Translate Korean/English for immigrant parents & customers; designed menus & ads that helped grow sales 50%+; run register, cook, deliver & restock
-- ⚠️ "customers": does she translate for customers too, or only her parents/vendors? Change if needed. ⚠️ "cook": original said "food prep."
+- **Description:** Break language barriers as Korean/English translator for immigrant parents; designed menus & ads that grew sales 50%+; run register, cook & deliver
+- ⚠️ "cook": original said "food prep." "Break language barriers" is in the first words because it's the barrier she knows best.
 - ⚠️ Hours: 54 hr/wk during the school year is not believable (see hours note below).
 
 ### 2. The HAVEN Project
 - **Position:** Founder & Executive Director
 - **Organization:** The HAVEN Project (Honoring Arts of all Visions, Emotions & Narratives)
-- **Description:** Curated art show of 50+ works by students & pediatric patients to challenge stereotypes of illness; raised ~$1K for pediatric patients' art supplies
+- **Description:** Launched art show giving 50+ student & pediatric artists a voice to fight stigma around illness; raised ~$1K for art supplies for pediatric patients
 - Category: switch to **Art** (or Social Justice, if offered).
 
 ### 3. Sneaker TikTok
@@ -29,7 +29,7 @@ Every description below is ≤150 characters, position ≤50 and organization �
 ### 4. Yale Teen POWER
 - **Position:** Student Advisory Board Member
 - **Organization:** Yale Teen POWER, Yale School of Medicine
-- **Description:** 1 of ~20 teens advising Yale Medicine staff; co-developed workshops & resources and designed newsletters promoting healthy body image for teens
+- **Description:** 1 of ~20 teens advising Yale Medicine staff; co-developed workshops & newsletters raising awareness of body-image pressures teens face
 - If she applied and was selected, write "Selected as 1 of ~20…"
 
 ### 5. Marching Band
@@ -53,8 +53,8 @@ Every description below is ≤150 characters, position ≤50 and organization �
 ### 8. Church Summer School
 - **Position:** Teaching Assistant & Art Teacher
 - **Organization:** New York Shinkwang Church Summer School
-- **Description:** Led art class & assisted bilingual Korean/English lessons & Bible study for ~15 2nd-graders; led praise dance & singing; served lunch
-- Category: **Religious**, if offered.
+- **Description:** Taught ~15 Korean American 2nd-graders in Korean & English to keep their heritage language alive; led art class, praise dance & Bible study support
+- ⚠️ Confirm the kids were Korean American and the Korean lessons were heritage-language teaching. Category: **Religious** or **Cultural**, if offered.
 
 ### 9. Jewelry Business
 - **Position:** Founder & Jewelry Designer
@@ -74,3 +74,9 @@ Every description below is ≤150 characters, position ≤50 and organization �
 2. **Hours don't add up.** School-year weekly hours total about 120 (store 54 + babysitting 28 + band 20 + soccer 13 + HAVEN 8 + ...). Readers notice this. Use honest averages for school weeks (for example, store ~20 hr/wk, babysitting ~8 hr/wk). If summers are heavier, the weeks/yr number can reflect that.
 3. **Honors section.** Add the NYSFBC 1st Place (2024) and the Scholar-Athlete Award, plus honor roll or any other award she has.
 4. **Additional Information.** She checked "caring for sick/elderly family" under circumstances. Two or three factual sentences there (how many hours, who she cares for) give her GPA context without making excuses. Combined with 50+ hr/wk at the store and translating, it tells the reader she has been working through high school.
+
+## Theme: underrepresented communities and inequality
+
+- The activities **show** the barriers (language, stigma around illness, body-image pressure); the essays **name** the bigger idea (inequality, systemic barriers). Phrases like "addressing systemic inequality" in activity descriptions read as inflated unless there's a concrete result behind them.
+- Activities that don't fit the theme (band, soccer, babysitting, jewelry, TikTok) still show commitment, work ethic and a large audience. Keep them.
+- Strongest single piece of evidence: the family store. A child translating for immigrant parents is a real systemic barrier she has lived firsthand.
