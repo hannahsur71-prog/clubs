@@ -9,9 +9,9 @@
 ```
 WALMART 1  → the slur, "Keep walking," she freezes
    BODY 1  → the art of noticing (who she became)
-WALMART 2  → Dad at the end of the aisle, why he walks
+WALMART 2  → Dad at the store doors, why he walks
    BODY 2  → the quiet (who she is now, and how she prepared)
-WALMART 3  → back in the aisle, knowing what she'd say now
+WALMART 3  → back in the parking lot, knowing what she'd say now
 REFLECTION → what stopping means, and the ending
 ```
 
@@ -23,7 +23,9 @@ Present tense, starting in the moment. End by freezing the frame.
 - *"Did you not just hear what they said?"* / *"Forget it. Keep walking."*
 - He walks. Her feet don't move.
 
-> *Sample: "Ching chong!" [Three boys by the carts] laugh. My dad doesn't turn his head. My face burns. "Did you not just hear what they said?" "Forget it. Keep walking." He does. My feet don't move. In some ways, I'm still standing in that aisle.*
+Setting: the **parking lot in front of the Allentown Walmart Supercenter**, walking from the car toward the entrance.
+
+> *Sample: Halfway across the Walmart parking lot, [three boys by a pickup truck] yell it: "Ching chong!" My dad doesn't turn his head. My face burns. "Did you not just hear what they said?" "Forget it. Keep walking." He does. My feet stay on the asphalt. In some ways, I'm still standing in that parking lot.*
 
 ## BODY 1: the art of noticing (~140 words)
 **Who she became.** Keep Queens and Roslyn to one line each so this section doesn't get busy.
@@ -37,12 +39,12 @@ Present tense, starting in the moment. End by freezing the frame.
 - One line on the breaking point: *[the day it stacked up]*, she stopped being friends with all of them.
 - ⚠️ Real comments only. Describe what "friends" said, never who they are.
 
-## WALMART 2: Dad at the end of the aisle (~70 words)
-Go back to the aisle. Dad has reached the end and turns around.
+## WALMART 2: Dad at the store doors (~70 words)
+Back to the parking lot. Dad reaches the entrance, the automatic doors slide open, and he turns around.
 - Why he keeps walking: he grew up in [where], where comments like this were normal. He never had the privilege of stopping to question them. Walking was survival.
 - Compassion, not blame.
 
-> *Sample: At the end of the aisle, my dad turns around and waits. He learned to keep walking in [place], where stopping was never an option.*
+> *Sample: At the entrance, the doors slide open. My dad turns around and waits. He learned to keep walking in [place], where stopping was never an option.*
 
 ## BODY 2: the quiet (~160 words)
 **Who she is now: entirely her.** The quiet girl that people underestimate. Pick **2** details that are specifically her, not all of them:
@@ -61,24 +63,24 @@ Go back to the aisle. Dad has reached the end and turns around.
   - HAVEN: giving sick kids a voice when people look away.
   - [Something else that's only her.]
 
-## WALMART 3: back in the aisle (~70 words)
+## WALMART 3: back in the parking lot (~70 words)
 She goes back to the frozen moment, but this time she's prepared.
 - She imagines standing there now: what she'd say to the boys, calmly, in one sentence.
 - If she has a **real** recent moment where she spoke up, put it here instead (better).
 
-> *Sample: If I were in that aisle today, I wouldn't freeze. I'd turn around and say, "[her words]." Then I'd walk, not away, but out, with my head up.*
+> *Sample: If I were in that parking lot today, I wouldn't freeze. I'd turn around and say, "[her words]." Then I'd walk to the doors, not away from them, with my head up.*
 
 ## REFLECTION AND ENDING (~100 words)
 **Her reflection, in her words:** you don't have to downplay racist experiences just because society tells you to toughen up. Let them make you vulnerable, and let them shape how you move through the world.
 
 How it connects to the essay:
 - "Keep walking" = what society (and Dad, out of survival) says: toughen up, brush it off.
-- Her freeze in the aisle wasn't weakness. It was the first time she let it matter.
+- Her freeze in the parking lot wasn't weakness. It was the first time she let it matter.
 - Vulnerability and strength aren't opposites: she felt it fully *and* prepared herself (search history). That's the balance.
 - Dad kept walking so she could afford to stop. Her vulnerability is a privilege he gave her.
 - **The walking motif pays off:** she doesn't stop walking forever. She lets it change *how* she walks.
 
-> *Sample ending: People told me to toughen up, to keep walking. But pretending it didn't hurt never made anyone stronger. It just made them quiet. My dad kept walking so that one day I could afford to stop. So I let it change me. I haven't been back to that Walmart in years. But I carry that aisle with me: down the hallways at school, behind the counter at [Superfood], into every room where someone might say it again. I just walk differently now: slower, eyes open, ready.*
+> *Sample ending: People told me to toughen up, to keep walking. But pretending it didn't hurt never made anyone stronger. It just made them quiet. My dad kept walking so that one day I could afford to stop. So I let it change me. I haven't been back to that Walmart in years. But I carry that parking lot with me: down the hallways at school, behind the counter at [Superfood], into every room where someone might say it again. I just walk differently now: slower, eyes open, ready.*
 
 (She rewrites this in her own words. The last line should be an image of her moving through the world, not a lesson. Use only places she really goes now.)
 
@@ -87,6 +89,17 @@ How it connects to the essay:
 ---
 
 ## Rules
+### Every word has to show who she is
+- **Each sentence has two jobs:** move the story forward AND reveal something about Crystal. If it only does one, rewrite it. If it does neither, cut it.
+- **Ask of every detail:** what does this tell the reader about her? "The parking lot" is setting only. "My feet stay on the asphalt" is setting plus her freeze.
+- **Cut filler:** very, really, just, that, actually, I think, I feel, I realized, in my life, a lot, things, stuff, suddenly, began to, started to.
+- **Cut explanations** of what a scene already showed.
+- **Specific over general:** "Jordans," "banchan," "Roslyn," not "shoes," "food," "my town."
+- **Her voice over pretty words:** no thesaurus vocabulary. Her blunt, plain phrasing is the most "her" thing on the page.
+- **Budget:** ~630 words over 6 sections. If a section goes over its budget, cut inside that section. Don't borrow from another.
+- **Final pass:** read each sentence alone and ask, "Could another applicant have written this?" If yes, make it hers or delete it.
+
+### Structure
 - Walmart appears **3 times**. Each return is short and moves the scene forward.
 - Every body detail must answer: **how does this show she notices what others walk past?** If it doesn't, cut it.
 - Queens and Roslyn = background, not sections.
