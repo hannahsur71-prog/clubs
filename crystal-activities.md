@@ -9,27 +9,17 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 
 ## Activities (in this order)
 
-### 1. Superfood: Store Operations
+### 1. Superfood
 | Field | Entry |
 |---|---|
 | Category | Family responsibilities |
-| Position | Translator, Cashier & Prep Cook |
-| Organization | Superfood, My Family's Korean Food Store |
+| Position | Translator, Cashier, Prep Cook & Marketing |
+| Organization | Superfood, Family Korean Food Store & Caterer (catered K-pop group MAMAMOO at UBS Arena) |
 | Description | Translate for customers; ~$90K/mo sales, 4.9 stars (100+ reviews); prep banchan; cash, register & phone orders; Threads marketing: 94K+ views/3 mo |
 | Grades | 9, 10, 11, 12 |
 | Hours | ⚠️ Honest school-year average (e.g. ~15 hr/wk) |
 
-### 2. Superfood: Marketing & Catering
-| Field | Entry |
-|---|---|
-| Category | Employment/work or Entrepreneurship (whichever the dropdown offers) |
-| Position | Marketing & Business Development |
-| Organization | Superfood Catering, Family Korean Food Business |
-| Description | Built website; won repeat catering for golf courses, offices, afterschools, clinics & churches; fielded grocery partnership inquiries; catered MAMAMOO |
-| Grades | ⚠️ the years she did this |
-| Hours | ⚠️ separate from #1, so the two don't double-count |
-
-### 3. The HAVEN Project
+### 2. The HAVEN Project
 | Field | Entry |
 |---|---|
 | Category | Art (or Community service) |
@@ -39,7 +29,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 10, 11, 12 |
 | Hours | 8 hr/wk, 26 wk/yr |
 
-### 4. Sneaker TikTok
+### 3. Sneaker TikTok
 | Field | Entry |
 |---|---|
 | Category | Hobby (or Entrepreneurship/Media, if offered) |
@@ -49,7 +39,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 |
 | Hours | 3 hr/wk, 40 wk/yr ⚠️ probably more; be honest |
 
-### 5. Yale Teen POWER
+### 4. Yale Teen POWER
 | Field | Entry |
 |---|---|
 | Category | Community service or volunteer work |
@@ -59,7 +49,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 11, 12 |
 | Hours | 2 hr/wk, 35 wk/yr |
 
-### 6. Marching Band
+### 5. Marching Band
 | Field | Entry |
 |---|---|
 | Category | Music |
@@ -69,7 +59,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 |
 | Hours | 20 hr/wk, 43 wk/yr ⚠️ lower if 20 is only during marching season |
 
-### 7. Babysitting
+### 6. Babysitting
 | Field | Entry |
 |---|---|
 | Category | Employment or work (paid) |
@@ -79,7 +69,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 |
 | Hours | ⚠️ Honest average (e.g. ~8–10 hr/wk), 34+ wk/yr |
 
-### 8. Korean Crochet Project
+### 7. Korean Crochet Project
 | Field | Entry |
 |---|---|
 | Category | Community service (or Cultural, if offered) |
@@ -90,7 +80,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Hours | 9 hr/wk, 10 wk/yr |
 | ⚠️ | 100+ total or each summer? If total, change "each summer" to "since 9th grade." |
 
-### 9. Church Summer School
+### 8. Church Summer School
 | Field | Entry |
 |---|---|
 | Category | Community service (or Religious/Cultural, if offered) |
@@ -101,7 +91,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Hours | 35 hr/wk, 6 wk/yr |
 | ⚠️ | Confirm the kids were Korean American and she taught Korean. |
 
-### 10. Jewelry Business
+### 9. Jewelry Business
 | Field | Entry |
 |---|---|
 | Category | Hobby (or Entrepreneurship, if offered) |
@@ -111,7 +101,9 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 10, 11, 12 |
 | Hours | 5 hr/wk, 26 wk/yr |
 
----|---|
+### 10. JV Soccer
+| Field | Entry |
+|---|---|
 | Category | Athletics (JV or varsity) |
 | Position | Defender (RB, CB, CDM); Rotating Captain |
 | Organization | Roslyn High School JV Girls Soccer |
@@ -135,14 +127,11 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 ---
 
 ## Additional Information (draft, fill in the brackets)
-> Since [year], I have worked about [X] hours a week at Superfood, my parents' Korean food store, prepping food, running the register and translating for customers. I also help care for [family member], who [brief, factual description]. These responsibilities often came before schoolwork, especially in [grade/year].
+> Since [year], I have worked about [X] hours a week at Superfood, my parents' Korean food store, prepping food, running the register and translating for customers. I also helped build our catering business, which now serves golf courses, offices, afterschool programs, dental clinics and churches, and I built our website. I also help care for [family member], who [brief, factual description]. These responsibilities often came before schoolwork, especially in [grade/year].
 
 Keep it factual and short. No excuses, no drama. It gives the GPA context.
 
 ---
-
-## Cut: JV Soccer
-Dropped to make room for the second Superfood entry. It was 9th–10th grade only and the weakest entry. The **Scholar-Athlete Award stays in Honors**, so the soccer credit isn't lost.
 
 ## Fix before submitting
 1. **Uncheck "Post-HS" on every activity.** She hasn't graduated. That box is wrong on all ten.
