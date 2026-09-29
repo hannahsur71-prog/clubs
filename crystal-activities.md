@@ -1,82 +1,141 @@
-# Crystal – Common App Activities (Revised)
+# Crystal – Common App Activities (Final Draft)
 
-**Spike:** A Korean American daughter of immigrants who has spent her life breaking down barriers for people who get overlooked: translating for her immigrant family, fighting stigma around illness, and raising awareness of pressures teens face. She wants to study the systems behind inequality (anthropology) and what fairness requires (philosophy).
+**Spike:** A Korean American daughter of immigrants who notices the people others walk past and does something about it: translating for her immigrant parents, fighting stigma around illness, raising awareness of pressures teens face, and keeping Korean traditions alive. The activities line up with her personal statement (*Keep Walking*): the essay shows **why** she notices, and the list shows **what she does**.
 
-Every description below is ≤150 characters, position ≤50 and organization ≤100 (all checked).
-⚠️ = a detail I added or reworded. Confirm it's true before submitting.
+All limits checked: position ≤50, organization ≤100, description ≤150 characters.
+⚠️ = confirm before submitting.
 
 ---
 
+## Activities (in this order)
+
 ### 1. Family Business
-- **Position:** Translator, Prep Cook, Cashier & Marketing
-- **Organization:** Superfood, My Family's Korean Food Store
-- **Description:** Translate for immigrant parents; prep banchan (trim chicken, cut radish), pack, label & restock; run register & phone orders; my ads helped sales +50%
-- Alt description: Break language barriers for immigrant parents; prep banchan & meat, pack, label, restock; run register & phone orders; designed menus/ads; sales +50%
-- ⚠️ Hours: 54 hr/wk during the school year is not believable (see hours note below).
+| Field | Entry |
+|---|---|
+| Category | Family responsibilities |
+| Position | Translator, Prep Cook, Cashier & Marketing |
+| Organization | Superfood, My Family's Korean Food Store |
+| Description | Translate for immigrant parents; prep banchan (trim chicken, cut radish), pack, label & restock; run register & phone orders; my ads helped sales +50% |
+| Grades | 9, 10, 11, 12 |
+| Hours | ⚠️ Honest school-year average (e.g. ~20 hr/wk), weeks 52 if she works summers |
 
 ### 2. The HAVEN Project
-- **Position:** Founder & Executive Director
-- **Organization:** The HAVEN Project (Honoring Arts of all Visions, Emotions & Narratives)
-- **Description:** Launched art show giving 50+ student & pediatric artists a voice to fight stigma around illness; raised ~$1K for art supplies for pediatric patients
-- Category: switch to **Art** (or Social Justice, if offered).
+| Field | Entry |
+|---|---|
+| Category | Art (or Community service) |
+| Position | Founder & Executive Director |
+| Organization | The HAVEN Project (Honoring Arts of all Visions, Emotions & Narratives) |
+| Description | Launched art show giving 50+ student & pediatric artists a voice to fight stigma around illness; raised ~$1K for art supplies for pediatric patients |
+| Grades | 10, 11, 12 |
+| Hours | 8 hr/wk, 26 wk/yr |
 
 ### 3. Sneaker TikTok
-- **Position:** Founder & Creator (@newshoesnews)
-- **Organization:** NewShoesNews, Sneaker Culture TikTok & Resale
-- **Description:** Grew TikTok to 33.4K followers, 1.4M likes & 8M+ views breaking Air Jordan release news; turned audience into a rare-sneaker resale business
-- ⚠️ Check how the handle is capitalized.
+| Field | Entry |
+|---|---|
+| Category | Hobby (or Entrepreneurship/Media, if offered) |
+| Position | Founder & Creator (@newshoesnews) |
+| Organization | NewShoesNews, Sneaker Culture TikTok & Resale |
+| Description | Grew TikTok to 33.4K followers, 1.4M likes & 8M+ views breaking Air Jordan release news; turned audience into a rare-sneaker resale business |
+| Grades | 9, 10, 11, 12 |
+| Hours | 3 hr/wk, 40 wk/yr ⚠️ probably more; be honest |
 
 ### 4. Yale Teen POWER
-- **Position:** Student Advisory Board Member
-- **Organization:** Yale Teen POWER, Yale School of Medicine
-- **Description:** 1 of ~20 teens advising Yale Medicine staff; co-developed workshops & newsletters raising awareness of body-image pressures teens face
-- If she applied and was selected, write "Selected as 1 of ~20…"
+| Field | Entry |
+|---|---|
+| Category | Community service or volunteer work |
+| Position | Student Advisory Board Member |
+| Organization | Yale Teen POWER, Yale School of Medicine |
+| Description | 1 of ~20 teens advising Yale Medicine staff; co-developed workshops & newsletters raising awareness of body-image pressures teens face |
+| Grades | 11, 12 |
+| Hours | 2 hr/wk, 35 wk/yr |
 
 ### 5. Marching Band
-- **Position:** Clarinetist
-- **Organization:** Roslyn High School Marching Band
-- **Description:** Clarinetist 8+ yrs; 4-yr member of competitive field band; helped win NYSFBC Championships 1st Place (2024) & 2nd Place (2023)
-- Add any section leader role, all-county/NYSSMA selection, or number of competing bands if she has them.
+| Field | Entry |
+|---|---|
+| Category | Music |
+| Position | Clarinetist |
+| Organization | Roslyn High School Marching Band |
+| Description | 4-yr member of competitive field band; clarinet 8+ yrs; rehearse & compete across NY; won NYSFBC Championships 1st Place (2024) & 2nd Place (2023) |
+| Grades | 9, 10, 11, 12 |
+| Hours | 20 hr/wk, 43 wk/yr ⚠️ lower if 20 is only during marching season |
 
 ### 6. Babysitting
-- **Position:** Babysitter
-- **Organization:** Independent Babysitting
-- **Description:** Cared for infants to 12-year-olds for 4 yrs incl. overnights; cooked meals, supervised, drove kids to activities; earned $5K+ & invested my earnings
-- Adding the number of families would make it stronger ("for 6 families").
+| Field | Entry |
+|---|---|
+| Category | Employment or work (paid) |
+| Position | Babysitter |
+| Organization | Independent Babysitting |
+| Description | Cared for infants to 12-year-olds for 4 yrs incl. overnights; cooked meals, supervised, drove kids to activities; earned $5K+ & invested my earnings |
+| Grades | 9, 10, 11, 12 |
+| Hours | ⚠️ Honest average (e.g. ~8–10 hr/wk), 34+ wk/yr |
 
 ### 7. Korean Crochet Project
-- **Position:** Creator & Crocheter
-- **Organization:** Independent Crochet Project: Traditional Korean Dish Scrubbers (Susemi)
-- **Description:** Crocheted 100+ traditional Korean susemi dish scrubbers each summer; gave them to Korean community members & family to keep a home tradition alive
-- ⚠️ Check: 100+ in total or each summer? Category: **Cultural**, if offered.
+| Field | Entry |
+|---|---|
+| Category | Community service (or Cultural, if offered) |
+| Position | Creator & Crocheter |
+| Organization | Independent Crochet Project: Traditional Korean Dish Scrubbers (Susemi) |
+| Description | Crocheted 100+ traditional Korean susemi dish scrubbers each summer; gave them to Korean community members & family to keep a home tradition alive |
+| Grades | 9, 10, 11, 12 (Break) |
+| Hours | 9 hr/wk, 10 wk/yr |
+| ⚠️ | 100+ total or each summer? If total, change "each summer" to "since 9th grade." |
 
 ### 8. Church Summer School
-- **Position:** Teaching Assistant & Art Teacher
-- **Organization:** New York Shinkwang Church Summer School
-- **Description:** Taught ~15 Korean American 2nd-graders in Korean & English to keep their heritage language alive; led art class, praise dance & Bible study support
-- ⚠️ Confirm the kids were Korean American and the Korean lessons were heritage-language teaching. Category: **Religious** or **Cultural**, if offered.
+| Field | Entry |
+|---|---|
+| Category | Community service (or Religious/Cultural, if offered) |
+| Position | Teaching Assistant & Art Teacher |
+| Organization | New York Shinkwang Church Summer School |
+| Description | Taught ~15 Korean American 2nd-graders in Korean & English to keep their heritage language alive; led art class, praise dance & Bible study support |
+| Grades | 9 (Break) |
+| Hours | 35 hr/wk, 6 wk/yr |
+| ⚠️ | Confirm the kids were Korean American and she taught Korean. |
 
 ### 9. Jewelry Business
-- **Position:** Founder & Jewelry Designer
-- **Organization:** Independent Jewelry Business *(use the brand name if it has one)*
-- **Description:** Designed & sold 200+ food-inspired clay & upcycled jewelry pieces since 2023, generating ~$1K in sales; gift pieces to family & friends
+| Field | Entry |
+|---|---|
+| Category | Hobby (or Entrepreneurship, if offered) |
+| Position | Founder & Jewelry Designer |
+| Organization | Independent Jewelry Business ⚠️ use the brand name if it has one |
+| Description | Design, handcraft & sell 200+ food-inspired jewelry pieces from clay & upcycled materials since 2023; ~$1K in sales; gift pieces to loved ones |
+| Grades | 10, 11, 12 |
+| Hours | 5 hr/wk, 26 wk/yr |
 
 ### 10. JV Soccer
-- **Position:** Defender (RB, CB, CDM); Rotating Captain
-- **Organization:** Roslyn High School JV Girls Soccer
-- **Description:** 2-yr defender at right back, center back & CDM; chosen as rotating captain to lead warmups & manage equipment; earned Scholar-Athlete Award
+| Field | Entry |
+|---|---|
+| Category | Athletics (JV or varsity) |
+| Position | Defender (RB, CB, CDM); Rotating Captain |
+| Organization | Roslyn High School JV Girls Soccer |
+| Description | 2-yr defender at right back, center back & CDM; chosen as rotating captain to lead warmups & manage equipment; earned Scholar-Athlete Award |
+| Grades | 9, 10 |
+| Hours | 13 hr/wk, 10 wk/yr |
+
+---
+
+## Honors (100 characters each)
+| # | Honor | Grade | Level |
+|---|---|---|---|
+| 1 | NYSFBC Championships 1st Place, Roslyn HS Marching Band (Clarinet) | 10 | State |
+| 2 | NYSFBC Championships 2nd Place, Roslyn HS Marching Band (Clarinet) | 9 | State |
+| 3 | Scholar-Athlete Award, Roslyn HS Girls Soccer | ⚠️ 9 or 10 | School |
+| 4 | ⚠️ Honor roll / any school award, if she has one | | |
+| 5 | ⚠️ Any other (art, NHS, AP Scholar, etc.) | | |
+
+(NYSFBC grades assume she graduates in 2027: fall 2023 = 9th, fall 2024 = 10th.)
+
+---
+
+## Additional Information (draft, fill in the brackets)
+> Since [year], I have worked about [X] hours a week at Superfood, my parents' Korean food store, prepping food, running the register and translating for my parents, who are more comfortable in Korean. I also help care for [family member], who [brief, factual description]. These responsibilities often came before schoolwork, especially in [grade/year].
+
+Keep it factual and short. No excuses, no drama. It gives the GPA context.
 
 ---
 
 ## Fix before submitting
-
-1. **Uncheck "Post-HS" on every activity.** She hasn't graduated, so it's wrong on all of them (babysitting even shows 06/2026). Use the separate "I intend to continue this activity in college" question for that.
-2. **Hours don't add up.** School-year weekly hours total about 120 (store 54 + babysitting 28 + band 20 + soccer 13 + HAVEN 8 + ...). Readers notice this. Use honest averages for school weeks (for example, store ~20 hr/wk, babysitting ~8 hr/wk). If summers are heavier, the weeks/yr number can reflect that.
-3. **Honors section.** Add the NYSFBC 1st Place (2024) and the Scholar-Athlete Award, plus honor roll or any other award she has.
-4. **Additional Information.** She checked "caring for sick/elderly family" under circumstances. Two or three factual sentences there (how many hours, who she cares for) give her GPA context without making excuses. Combined with 50+ hr/wk at the store and translating, it tells the reader she has been working through high school.
-
-## Theme: underrepresented communities and inequality
-
-- The activities **show** the barriers (language, stigma around illness, body-image pressure); the essays **name** the bigger idea (inequality, systemic barriers). Phrases like "addressing systemic inequality" in activity descriptions read as inflated unless there's a concrete result behind them.
-- Activities that don't fit the theme (band, soccer, babysitting, jewelry, TikTok) still show commitment, work ethic and a large audience. Keep them.
-- Strongest single piece of evidence: the family store. A child translating for immigrant parents is a real systemic barrier she has lived firsthand.
+1. **Uncheck "Post-HS" on every activity.** She hasn't graduated. That box is wrong on all ten.
+2. **Make the hours realistic.** The original numbers add up to ~120 hr/wk during the school year. Use honest averages.
+3. **Fill the Honors section.** It's currently empty.
+4. **Categories:** use the closest option the dropdown actually offers. The ones above are suggestions.
+5. **Resolve every ⚠️.**
