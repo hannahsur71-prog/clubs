@@ -1,6 +1,6 @@
 # Crystal – Common App Activities (Final Draft)
 
-**Spike:** A Korean American daughter of immigrants who notices the people others walk past and does something about it: translating for her immigrant parents, fighting stigma around illness, raising awareness of pressures teens face, and keeping Korean traditions alive. The activities line up with her personal statement (*Keep Walking*): the essay shows **why** she notices, and the list shows **what she does**.
+**Spike:** A Korean American daughter of immigrants who notices the people others walk past and does something about it: translating for Korean-speaking customers at her family's store, fighting stigma around illness, raising awareness of pressures teens face, and keeping Korean traditions alive. The activities line up with her personal statement (*Keep Walking*): the essay shows **why** she notices, and the list shows **what she does**.
 
 All limits checked: position ≤50, organization ≤100, description ≤150 characters.
 ⚠️ = confirm before submitting.
@@ -15,7 +15,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Category | Family responsibilities |
 | Position | Translator, Cashier & Prep Cook |
 | Organization | Superfood, My Family's Korean Food Store |
-| Description | Translate for immigrant parents at store with ~$90K/mo sales & 4.9-star rating (100+ reviews); prep banchan, handle cash, register & phone orders |
+| Description | Translate for customers; ~$90K/mo sales, 4.9 stars (100+ reviews); prep banchan; cash, register & phone orders; Threads marketing: 94K+ views/3 mo |
 | Grades | 9, 10, 11, 12 |
 | Hours | ⚠️ Honest school-year average (e.g. ~15 hr/wk) |
 
@@ -25,7 +25,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Category | Employment/work or Entrepreneurship (whichever the dropdown offers) |
 | Position | Marketing & Business Development |
 | Organization | Superfood Catering, Family Korean Food Business |
-| Description | Built site & Threads (94K+ views/3 mo); won repeat catering for golf courses, offices, afterschools, clinics & churches; catered MAMAMOO at UBS Arena |
+| Description | Built website; won repeat catering for golf courses, offices, afterschools, clinics & churches; fielded grocery partnership inquiries; catered MAMAMOO |
 | Grades | ⚠️ the years she did this |
 | Hours | ⚠️ separate from #1, so the two don't double-count |
 
@@ -135,7 +135,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 ---
 
 ## Additional Information (draft, fill in the brackets)
-> Since [year], I have worked about [X] hours a week at Superfood, my parents' Korean food store, prepping food, running the register and translating for my parents, who are more comfortable in Korean. I also help care for [family member], who [brief, factual description]. These responsibilities often came before schoolwork, especially in [grade/year].
+> Since [year], I have worked about [X] hours a week at Superfood, my parents' Korean food store, prepping food, running the register and translating for customers. I also help care for [family member], who [brief, factual description]. These responsibilities often came before schoolwork, especially in [grade/year].
 
 Keep it factual and short. No excuses, no drama. It gives the GPA context.
 
