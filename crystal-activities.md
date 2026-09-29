@@ -39,17 +39,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 |
 | Hours | 3 hr/wk, 40 wk/yr ⚠️ probably more; be honest |
 
-### 4. Yale Teen POWER
-| Field | Entry |
-|---|---|
-| Category | Community service or volunteer work |
-| Position | Student Advisory Board Member |
-| Organization | Yale Teen POWER, Yale School of Medicine |
-| Description | 1 of ~20 teens advising Yale Medicine staff; co-developed workshops & newsletters raising awareness of body-image pressures teens face |
-| Grades | 11, 12 |
-| Hours | 2 hr/wk, 35 wk/yr |
-
-### 5. Marching Band
+### 4. Marching Band
 | Field | Entry |
 |---|---|
 | Category | Music |
@@ -58,6 +48,16 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Description | 4-yr member of competitive field band; clarinet 8+ yrs; rehearse & compete across NY; won NYSFBC Championships 1st Place (2024) & 2nd Place (2023) |
 | Grades | 9, 10, 11, 12 |
 | Hours | 20 hr/wk, 43 wk/yr ⚠️ lower if 20 is only during marching season |
+
+### 5. Yale Teen POWER
+| Field | Entry |
+|---|---|
+| Category | Community service or volunteer work |
+| Position | Student Advisory Board Member |
+| Organization | Yale Teen POWER, Yale School of Medicine |
+| Description | 1 of ~20 teens advising Yale Medicine staff; co-developed workshops & newsletters raising awareness of body-image pressures teens face |
+| Grades | 11, 12 |
+| Hours | 2 hr/wk, 35 wk/yr |
 
 ### 6. Korean Crochet Project
 | Field | Entry |
