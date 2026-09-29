@@ -59,17 +59,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 |
 | Hours | 20 hr/wk, 43 wk/yr ⚠️ lower if 20 is only during marching season |
 
-### 6. Babysitting
-| Field | Entry |
-|---|---|
-| Category | Employment or work (paid) |
-| Position | Babysitter |
-| Organization | Independent Babysitting |
-| Description | Cared for infants to 12-year-olds for 4 yrs incl. overnights; cooked meals, supervised, drove kids to activities; earned $5K+ & invested my earnings |
-| Grades | 9, 10, 11, 12 |
-| Hours | ⚠️ Honest average (e.g. ~8–10 hr/wk), 34+ wk/yr |
-
-### 7. Korean Crochet Project
+### 6. Korean Crochet Project
 | Field | Entry |
 |---|---|
 | Category | Community service (or Cultural, if offered) |
@@ -80,7 +70,27 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Hours | 9 hr/wk, 10 wk/yr |
 | ⚠️ | 100+ total or each summer? If total, change "each summer" to "since 9th grade." |
 
-### 8. Church Summer School
+### 7. Jewelry Business
+| Field | Entry |
+|---|---|
+| Category | Hobby (or Entrepreneurship, if offered) |
+| Position | Founder & Jewelry Designer |
+| Organization | Independent Jewelry Business ⚠️ use the brand name if it has one |
+| Description | Design, handcraft & sell 200+ food-inspired jewelry pieces from clay & upcycled materials since 2023; ~$1K in sales; gift pieces to loved ones |
+| Grades | 10, 11, 12 |
+| Hours | 5 hr/wk, 26 wk/yr |
+
+### 8. Babysitting
+| Field | Entry |
+|---|---|
+| Category | Employment or work (paid) |
+| Position | Babysitter |
+| Organization | Independent Babysitting |
+| Description | Cared for infants to 12-year-olds for 4 yrs incl. overnights; cooked meals, supervised, drove kids to activities; earned $5K+ & invested my earnings |
+| Grades | 9, 10, 11, 12 |
+| Hours | ⚠️ Honest average (e.g. ~8–10 hr/wk), 34+ wk/yr |
+
+### 9. Church Summer School
 | Field | Entry |
 |---|---|
 | Category | Community service (or Religious/Cultural, if offered) |
@@ -90,16 +100,6 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9 (Break) |
 | Hours | 35 hr/wk, 6 wk/yr |
 | ⚠️ | Confirm the kids were Korean American and she taught Korean. |
-
-### 9. Jewelry Business
-| Field | Entry |
-|---|---|
-| Category | Hobby (or Entrepreneurship, if offered) |
-| Position | Founder & Jewelry Designer |
-| Organization | Independent Jewelry Business ⚠️ use the brand name if it has one |
-| Description | Design, handcraft & sell 200+ food-inspired jewelry pieces from clay & upcycled materials since 2023; ~$1K in sales; gift pieces to loved ones |
-| Grades | 10, 11, 12 |
-| Hours | 5 hr/wk, 26 wk/yr |
 
 ### 10. JV Soccer
 | Field | Entry |
