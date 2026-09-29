@@ -119,5 +119,6 @@ How it connects to the essay:
 - People tell her to walk away and brush past it, even when it's that serious.
 - Kindness has become performative.
 - HAVEN: News 12 Long Island interviewed her but wanted photos of the pediatric patients; she refused to let the kids be photographed, so the story never ran. She chose their privacy over publicity (the opposite of performative kindness).
+- HAVEN origin: she was a hospital patient herself and used art to heal and express herself. (Possible Northwestern supplement material.)
 - Reflection: don't downplay racist experiences because society says toughen up; let them make you vulnerable and shape how you move through the world.
 - (Sister's view) She used to have a cute, happy spark. Now she's quiet, but inside she's strong, with so much knowledge and awareness.

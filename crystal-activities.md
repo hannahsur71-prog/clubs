@@ -25,7 +25,10 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Category | Art (or Community service) |
 | Position | Founder & Executive Director |
 | Organization | The HAVEN Project (Honoring Arts of all Visions, Emotions, and Narratives) |
-| Description | Art show challenging illness stigma; 50+ student & pediatric patient works; ~$1K for art supplies; declined News 12 story to protect patients' privacy |
+| Description | Gave hospital kids art supplies; showed 50+ patient & student works at sponsored show; $500+ to pediatric unit; declined News 12 to protect patients |
+| Alt (if she's comfortable sharing) | Once a patient; gave hospital kids art supplies; showed 50+ patient & student works; $500+ to pediatric unit; declined News 12 to protect patients |
+| Org alt | The HAVEN Project x [Hospital Name] Pediatric Unit |
+| ⚠️ | $500+ or ~$1K? Use one number everywhere. Started July 2025, so grades are likely 11, 12 (not 10). |
 | Grades | 10, 11, 12 |
 | Hours | 8 hr/wk, 26 wk/yr |
 
