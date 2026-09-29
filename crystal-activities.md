@@ -13,9 +13,9 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Family responsibilities |
-| Position | Translator, Cashier, Prep Cook & Marketing |
-| Organization | Superfood, Family Korean Food Store & Caterer (catered K-pop group MAMAMOO at UBS Arena) |
-| Description | Translate for customers; ~$90K/mo sales, 4.9 stars (100+ reviews); prep banchan; cash, register & phone orders; Threads marketing: 94K+ views/3 mo |
+| Position | Prep Cook, Cashier, Translator & Marketing |
+| Organization | Superfood, My Family's Korean Food Store (we catered K-pop group MAMAMOO) |
+| Description | Prep banchan, label & restock 100+ items a day; translate for customers; run register & calls; made menus, ads & Threads posts (94K views); sales +50% |
 | Grades | 9, 10, 11, 12 |
 | Hours | ⚠️ Honest school-year average (e.g. ~15 hr/wk) |
 
@@ -127,7 +127,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 ---
 
 ## Additional Information (draft, fill in the brackets)
-> Since [year], I have worked about [X] hours a week at Superfood, my parents' Korean food store, prepping food, running the register and translating for customers. I also helped build our catering business, which now serves golf courses, offices, afterschool programs, dental clinics and churches, and I built our website. I also help care for [family member], who [brief, factual description]. These responsibilities often came before schoolwork, especially in [grade/year].
+> Since [year], I have worked about [X] hours a week at Superfood, my parents' Korean food store, prepping food, running the register and translating for customers. Our store averages about $90K in monthly sales with a 4.9-star rating across 100+ reviews. I also helped build our catering business, which now serves golf courses, offices, afterschool programs, dental clinics and churches, and I built our website. I also help care for [family member], who [brief, factual description]. These responsibilities often came before schoolwork, especially in [grade/year].
 
 Keep it factual and short. No excuses, no drama. It gives the GPA context.
 
