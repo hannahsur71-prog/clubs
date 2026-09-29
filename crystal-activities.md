@@ -49,17 +49,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 |
 | Hours | 20 hr/wk, 43 wk/yr ⚠️ lower if 20 is only during marching season |
 
-### 5. Yale Teen POWER
-| Field | Entry |
-|---|---|
-| Category | Community service or volunteer work |
-| Position | Student Advisory Board Member |
-| Organization | Yale Teen POWER, Yale School of Medicine |
-| Description | 1 of ~20 teens advising Yale Medicine staff; co-developed workshops & newsletters raising awareness of body-image pressures teens face |
-| Grades | 11, 12 |
-| Hours | 2 hr/wk, 35 wk/yr |
-
-### 6. Korean Crochet Project
+### 5. Korean Crochet Project
 | Field | Entry |
 |---|---|
 | Category | Community service (or Cultural, if offered) |
@@ -69,6 +59,16 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 (Break) |
 | Hours | 9 hr/wk, 10 wk/yr |
 | ⚠️ | 100+ total or each summer? If total, change "each summer" to "since 9th grade." |
+
+### 6. Yale Teen POWER
+| Field | Entry |
+|---|---|
+| Category | Community service or volunteer work |
+| Position | Student Advisory Board Member |
+| Organization | Yale Teen POWER, Yale School of Medicine |
+| Description | 1 of ~20 teens advising Yale Medicine staff; co-developed workshops & newsletters raising awareness of body-image pressures teens face |
+| Grades | 11, 12 |
+| Hours | 2 hr/wk, 35 wk/yr |
 
 ### 7. Jewelry Business
 | Field | Entry |
