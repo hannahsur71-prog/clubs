@@ -23,14 +23,12 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Art (or Community service) |
-| Position | Founder & Executive Director |
-| Organization | The HAVEN Project (Honoring Arts of all Visions, Emotions, and Narratives) |
-| Description | Gave hospital kids art supplies; showed 50+ patient & student works at sponsored show; $500+ to pediatric unit; declined News 12 to protect patients |
-| Alt (if she's comfortable sharing) | Once a patient; gave hospital kids art supplies; showed 50+ patient & student works; $500+ to pediatric unit; declined News 12 to protect patients |
-| Org alt | The HAVEN Project x [Hospital Name] Pediatric Unit |
-| ⚠️ | $500+ or ~$1K? Use one number everywhere. Started July 2025, so grades are likely 11, 12 (not 10). |
-| Grades | 10, 11, 12 |
+| Position | Founder & Executive Director (Former Patient) |
+| Organization | The HAVEN Project x [Hospital] Pediatric Unit; sponsor: Signature Premier Properties |
+| Description | Gave hospital kids art supplies; showed 50+ patient & student works; raised ~$1K for pediatric unit; declined News 12 story to protect patients |
+| Grades | 11, 12 ⚠️ (started July 2025) |
 | Hours | 8 hr/wk, 26 wk/yr |
+| ⚠️ | "(Former Patient)" only if she's comfortable sharing; otherwise "Founder & Executive Director." Put the real hospital name in and keep Organization ≤100 characters (e.g. "Flushing Hospital Medical Center" fits at 91). |
 
 ### 3. Sneaker TikTok
 | Field | Entry |
