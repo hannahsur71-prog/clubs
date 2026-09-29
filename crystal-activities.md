@@ -33,11 +33,11 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Hobby (or Entrepreneurship/Media, if offered) |
-| Position | Founder & Creator (@newshoesnews) |
-| Organization | NewShoesNews, Sneaker Culture TikTok & Resale |
-| Description | Grew TikTok to 33.4K followers, 1.4M likes & 8M+ views breaking Air Jordan release news; turned audience into a rare-sneaker resale business |
+| Position | Founder, Creator & Reseller (@newshoesnews) |
+| Organization | NewShoesNews: Sneaker Culture TikTok & Rare Sneaker Resale |
+| Description | Built sneaker community of 33.4K followers (1.4M likes, 8M+ views) by researching & breaking Air Jordan release news; now source & resell rare pairs |
 | Grades | 9, 10, 11, 12 |
-| Hours | 3 hr/wk, 40 wk/yr ⚠️ probably more; be honest |
+| Hours | ⚠️ 3 hr/wk looks low for 8M+ views; use her honest average |
 
 ### 4. Marching Band
 | Field | Entry |
