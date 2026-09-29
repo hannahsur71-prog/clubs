@@ -24,8 +24,8 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 |---|---|
 | Category | Art (or Community service) |
 | Position | Founder & Executive Director |
-| Organization | The HAVEN Project (Honoring Arts of all Visions, Emotions & Narratives) |
-| Description | Launched art show giving 50+ student & pediatric artists a voice to fight stigma around illness; raised ~$1K for art supplies for pediatric patients |
+| Organization | The HAVEN Project (Honoring Arts of all Visions, Emotions, and Narratives) |
+| Description | Art show challenging illness stigma; 50+ student & pediatric patient works; ~$1K for art supplies; declined News 12 story to protect patients' privacy |
 | Grades | 10, 11, 12 |
 | Hours | 8 hr/wk, 26 wk/yr |
 
