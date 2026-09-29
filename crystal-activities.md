@@ -19,16 +19,15 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 |
 | Hours | ⚠️ Honest school-year average (e.g. ~15 hr/wk) |
 
-### 2. The HAVEN Project
+### 2. The HAVEN Project ✅ FINAL
 | Field | Entry |
 |---|---|
 | Category | Art (or Community service) |
-| Position | Founder & Director; Inspired by My Hospital Stay |
-| Organization | The HAVEN Project x [Hospital] Pediatric Unit; sponsor: Signature Premier Properties |
-| Description | Gave hospital kids art supplies; showed 50+ patient & student works; raised ~$1K for pediatric unit; declined News 12 story to protect patients |
+| Position | Founder/Exec Director;Inspired by My Hospital Stay |
+| Organization | HAVEN (Honoring Arts of all Visions, Emotions, and Narratives) x Flushing Hospital Pediatric Unit |
+| Description | Art initiative challenging illness stigma;50+ student/pediatric patient works; raised ~$1k for art supplies;declined News 12 story to protect patients |
 | Grades | 11, 12 ⚠️ (started July 2025) |
 | Hours | 8 hr/wk, 26 wk/yr |
-| ⚠️ | "Inspired by My Hospital Stay" only if she is comfortable sharing; alt: "Founder & Executive Director (Art Helped Me Heal)" (49), or plain "Founder & Executive Director." Put the real hospital name in and keep Organization ≤100 characters (e.g. "Flushing Hospital Medical Center" fits at 91). |
 
 ### 3. Sneaker TikTok
 | Field | Entry |
