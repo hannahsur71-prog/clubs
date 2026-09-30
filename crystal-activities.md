@@ -89,7 +89,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Category | Employment or work (paid) |
 | Position | Babysitter (Infants to 12-Year-Olds) |
 | Organization | Independent Babysitting for Local Families |
-| Description | Trusted by families for 4 yrs incl. overnight care; cook meals, supervise & manage school & activity pickups; earned $5K+ & invested my earnings |
+| Description | Trusted by families for 4 yrs incl. overnights; cook meals, lead digital drawing & coloring projects, manage school pickups; earned $5K+ & invested it |
 | Grades | 9, 10, 11, 12 |
 | Hours | ⚠️ Honest average (e.g. ~8–10 hr/wk), 34+ wk/yr |
 
