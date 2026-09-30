@@ -45,7 +45,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Category | Music |
 | Position | Clarinetist & Multi-Instrumentalist |
 | Organization | Roslyn HS Marching Bulldogs (NYSFBC Champs, honored by NY Senate; #1 in NY) & Independent Musician |
-| Description | Clarinet 8+ yrs; jazz keyboard 10+ yrs; self-taught rock guitar & harmonica; helped win 2024 NYSFBC state title (record 94.3); 2nd in state 2025 |
+| Description | Play 4 instruments: jazz keys 10+ yrs, clarinet 8+ yrs, self-taught guitar & harmonica; helped win 2024 NYSFBC state title (record 94.3); 2nd in 2025 |
 | Grades | 9, 10, 11, 12 |
 | Hours | ⚠️ band + personal practice combined, honest average |
 | ⚠️ | You said 2nd place was 2023; online I only found 2nd place in Oct 2025 (and 1st in Oct 2024). Confirm the year before submitting. |
@@ -54,9 +54,9 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Community service (or Cultural, if offered) |
-| Position | Creator & Crocheter |
-| Organization | Independent Crochet Project: Traditional Korean Dish Scrubbers (Susemi) |
-| Description | Crocheted 100+ traditional Korean susemi dish scrubbers each summer; gave them to Korean community members & family to keep a home tradition alive |
+| Position | Creator & Crocheter; Preserving a Korean Tradition |
+| Organization | Independent Summer Crochet Project: Traditional Korean Susemi (Dish Scrubbers) |
+| Description | Handcraft 100+ traditional Korean susemi dish scrubbers each summer; give them free to Korean community & family to keep a home tradition alive |
 | Grades | 9, 10, 11, 12 (Break) |
 | Hours | 9 hr/wk, 10 wk/yr |
 | ⚠️ | 100+ total or each summer? If total, change "each summer" to "since 9th grade." |
