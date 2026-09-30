@@ -25,7 +25,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Category | Art (or Community service) |
 | Position | Founder/Exec Director;Inspired by My Hospital Stay |
 | Organization | HAVEN (Honoring Arts of all Visions, Emotions, and Narratives) x Flushing Hospital Pediatric Unit |
-| Description | Art initiative challenging illness stigma;50+ student/pediatric patient works; raised ~$1k for art supplies;declined News 12 story to protect patients |
+| Description | Art initiative challenging illness stigma;50+ student/pediatric patient works; raised ~$1k for art supplies;declined News 12: mission over publicity |
 | Grades | 11, 12 ⚠️ (started July 2025) |
 | Hours | 8 hr/wk, 26 wk/yr |
 
