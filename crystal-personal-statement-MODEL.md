@@ -29,7 +29,7 @@ Roslyn gave pop quizzes.
 
 "[Comment]." I said nothing.
 
-I spend hours sculpting clay food small enough to hang from an earring, a dumpling the size of a fingernail, [a strip of bacon thinner than a pencil line]. I know how much a tiny thing can hold. That's what made the comments so hard. Each one was small enough to brush off, and I brushed off so many that by [grade], [the breaking-point moment]. I walked away from all of them. For a long time, the loudest kid on the block barely said a word.
+I spend hours sculpting clay food small enough to hang from an earring, [a dumpling the size of a fingernail, a strip of bacon thinner than a pencil line]. I know how much a tiny thing can hold. That's what made the comments so hard. Each one was small enough to brush off, and I brushed off so many that by [grade], [the breaking-point moment]. I walked away from all of them. For a long time, the loudest kid on the block barely said a word.
 
 In that parking lot, my dad reached the automatic doors, turned around, and waited. For years I didn't understand how he could keep walking. Now I do. Growing up in [place], stopping to question every comment was a luxury he couldn't afford. Walking was how he survived, and how he got me across that parking lot.
 
@@ -46,7 +46,7 @@ I learned that the words yelled across that parking lot were older than my famil
 
 [A real recent moment, full sensory detail: behind the Superfood counter, hands smelling like radish, a customer says something; she sets down the knife and answers, "[her exact words]."] My voice shook a little. I didn't laugh. I didn't walk away.
 
-People told me to toughen up, to get over it, to keep walking. But pretending something doesn't hurt never made anyone stronger; it only made them quieter. I don't want to be tough. I want to be awake. I want to notice the small things, the way I notice shoes and fingernail-sized dumplings, and let them change how I move through every room.
+People told me to toughen up, to get over it, to keep walking. But pretending something doesn't hurt never made anyone stronger; it only made them quieter. I don't want to be tough. I want to be awake. I want to notice the small things, the way I notice shoes and [fingernail-sized dumplings], and let them change how I move through every room.
 
 My dad kept walking so that one day I could afford to stop.
 
