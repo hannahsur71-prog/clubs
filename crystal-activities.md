@@ -108,9 +108,9 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Athletics (JV or varsity) |
-| Position | Versatile Defender (RB, CB, CDM); Rotating Captain |
+| Position | Defender (Right Back, Center Back, CDM) |
 | Organization | Roslyn High School JV Girls Soccer |
-| Description | Led warmups & drills for 22-player team as rotating captain; managed gear; adapted to 3 defensive positions in 2 seasons; earned Scholar-Athlete Award |
+| Description | Selected rotating captain of 22-player team: led warmups & organized drills; managed team equipment for 2 seasons; earned Scholar-Athlete Award |
 | Grades | 9, 10 |
 | Hours | 13 hr/wk, 10 wk/yr |
 
