@@ -65,8 +65,9 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 |---|---|
 | Category | Community service or volunteer work |
 | Position | Teen Advisory Board (1 of 20) & Newsletter Writer |
-| Organization | Yale Teen POWER, Yale School of Medicine (Teen Body-Image Research Program) |
-| Description | Co-write monthly body-image newsletters reaching 100K+ teens globally; help turn Yale research into teen-friendly tip sheets; organize teen workshops |
+| Organization | Yale Teen POWER, Yale School of Medicine Dept. of Psychiatry (Teen Body-Image Research) |
+| Description | Advise Yale researchers; co-write monthly body-image newsletters reaching 100K+ teens globally; turn research into teen tip sheets; organize workshops |
+| Org alt (official name) | Yale Teen POWER (Program for Obesity, Weight & Eating Research), Yale School of Medicine |
 | Grades | 11, 12 |
 | Hours | 2 hr/wk, 35 wk/yr (biweekly meetings + writing) |
 
