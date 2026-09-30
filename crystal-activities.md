@@ -99,11 +99,10 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Category | Community service (or Religious/Cultural, if offered) |
 | Position | Teaching Assistant & Art Teacher (2nd Grade) |
 | Organization | New York Shinkwang Church Summer School |
-| Description | Taught art class & assisted Korean, English & Bible lessons for ~15 2nd-graders, full-time for 6 wks; led praise dance & singing; served daily lunch |
-| Alt (if kids were Korean American learning Korean) | Taught ~15 Korean American 2nd-graders in Korean & English to keep their heritage language alive; led art class, praise dance & Bible study support |
+| Description | Taught art & helped ~15 mostly Korean American 2nd-graders learn Korean & English, full-time for 6 wks; assisted Bible study; led praise dance & singing |
 | Grades | 9 (Break) |
 | Hours | 35 hr/wk, 6 wk/yr |
-| ⚠️ | Confirm the kids were Korean American and she taught Korean. |
+| ⚠️ | Confirmed: most kids were Korean American. Only one summer? |
 
 ### 10. JV Soccer
 | Field | Entry |
