@@ -76,9 +76,9 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Hobby (or Entrepreneurship, if offered) |
-| Position | Founder & Jewelry Designer |
-| Organization | Independent Jewelry Business: Handmade Food-Inspired Clay & Upcycled Jewelry |
-| Description | Designed & handcrafted 200+ pieces since 2023, turning discarded materials into wearable art; earned ~$1K in sales; gift pieces to family & friends |
+| Position | Founder & Self-Taught Miniature Clay Artist |
+| Organization | Independent Jewelry Business: Handmade Miniature Clay Food & Upcycled Jewelry |
+| Description | Learned from YouTube to sculpt tiny, lifelike clay food; turned it into 200+ jewelry pieces since 2023 (incl. upcycled materials); ~$1K in sales |
 | ⚠️ | Swap in the brand name if there is one. |
 | Grades | 10, 11, 12 |
 | Hours | 5 hr/wk, 26 wk/yr |
