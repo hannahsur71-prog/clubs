@@ -54,12 +54,12 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Community service (or Cultural, if offered) |
-| Position | Creator & Crocheter; Preserving a Korean Tradition |
+| Position | Self-Taught Designer & Crocheter |
 | Organization | Independent Summer Crochet Project: Traditional Korean Susemi (Dish Scrubbers) |
-| Description | Handcraft 100+ traditional Korean susemi dish scrubbers each summer; give them free to Korean community & family to keep a home tradition alive |
+| Description | Design my own susemi patterns; crochet 100+ each summer, now with my aunt; gift them to church members, elderly Korean neighbors & Superfood customers |
 | Grades | 9, 10, 11, 12 (Break) |
 | Hours | 9 hr/wk, 10 wk/yr |
-| ⚠️ | 100+ total or each summer? If total, change "each summer" to "since 9th grade." |
+| ⚠️ | 100+ total or each summer? If total, change "each summer" to "since 9th grade." Confirm the recipients (church, neighbors, customers) are accurate. |
 
 ### 6. Yale Teen POWER
 | Field | Entry |
