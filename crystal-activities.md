@@ -39,16 +39,16 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Grades | 9, 10, 11, 12 |
 | Hours | ⚠️ 3 hr/wk looks low for 8M+ views; use her honest average |
 
-### 4. Marching Band
+### 4. Music: Marching Band & Independent Musician
 | Field | Entry |
 |---|---|
 | Category | Music |
-| Position | Clarinetist (4-Year Member; Clarinet 8+ Years) |
-| Organization | Roslyn HS Marching Bulldogs (NYSFBC Small School 1 State Champions; ranked #1 in NY for 2026) |
-| Description | Helped win 2024 NYSFBC state title with program-record 94.3 score, honored by NY Senate resolution; 2nd in state 2025; rehearse & compete across NY |
+| Position | Clarinetist & Multi-Instrumentalist |
+| Organization | Roslyn HS Marching Bulldogs (NYSFBC Champs, honored by NY Senate; #1 in NY) & Independent Musician |
+| Description | Clarinet 8+ yrs; jazz keyboard 10+ yrs; self-taught rock guitar & harmonica; helped win 2024 NYSFBC state title (record 94.3); 2nd in state 2025 |
 | Grades | 9, 10, 11, 12 |
-| Hours | 20 hr/wk, 43 wk/yr ⚠️ lower if 20 is only during marching season |
-| ⚠️ | Verified online: 1st place Oct 2024 (10th grade), 2nd place Oct 2025 (11th grade). Her old entry said "2nd Place (2023)"; confirm whether they also placed in 2023. |
+| Hours | ⚠️ band + personal practice combined, honest average |
+| ⚠️ | You said 2nd place was 2023; online I only found 2nd place in Oct 2025 (and 1st in Oct 2024). Confirm the year before submitting. |
 
 ### 5. Korean Crochet Project
 | Field | Entry |
