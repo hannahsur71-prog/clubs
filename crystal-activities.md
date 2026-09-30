@@ -64,7 +64,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Community service or volunteer work |
-| Position | Teen Advisory Board Member & Newsletter Writer |
+| Position | Teen Advisory Board (1 of 20) & Newsletter Writer |
 | Organization | Yale Teen POWER, Yale School of Medicine (Teen Body-Image Research Program) |
 | Description | Co-write monthly body-image newsletters reaching 100K+ teens globally; help turn Yale research into teen-friendly tip sheets; organize teen workshops |
 | Grades | 11, 12 |
