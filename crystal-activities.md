@@ -43,11 +43,12 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Music |
-| Position | Clarinetist |
-| Organization | Roslyn High School Marching Band |
-| Description | 4-yr member of competitive field band; clarinet 8+ yrs; rehearse & compete across NY; won NYSFBC Championships 1st Place (2024) & 2nd Place (2023) |
+| Position | Clarinetist (4-Year Member; Clarinet 8+ Years) |
+| Organization | Roslyn HS Marching Bulldogs (NYSFBC Small School 1 State Champions; ranked #1 in NY for 2026) |
+| Description | Helped win 2024 NYSFBC state title with program-record 94.3 score, honored by NY Senate resolution; 2nd in state 2025; rehearse & compete across NY |
 | Grades | 9, 10, 11, 12 |
 | Hours | 20 hr/wk, 43 wk/yr ⚠️ lower if 20 is only during marching season |
+| ⚠️ | Verified online: 1st place Oct 2024 (10th grade), 2nd place Oct 2025 (11th grade). Her old entry said "2nd Place (2023)"; confirm whether they also placed in 2023. |
 
 ### 5. Korean Crochet Project
 | Field | Entry |
@@ -118,7 +119,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | # | Honor | Grade | Level |
 |---|---|---|---|
 | 1 | NYSFBC Championships 1st Place, Roslyn HS Marching Band (Clarinet) | 10 | State |
-| 2 | NYSFBC Championships 2nd Place, Roslyn HS Marching Band (Clarinet) | 9 | State |
+| 2 | NYSFBC Championships 2nd Place, Roslyn HS Marching Band (Clarinet) | 11 ⚠️ (2025, verify) | State |
 | 3 | Scholar-Athlete Award, Roslyn HS Girls Soccer | ⚠️ 9 or 10 | School |
 | 4 | ⚠️ Honor roll / any school award, if she has one | | |
 | 5 | ⚠️ Any other (art, NHS, AP Scholar, etc.) | | |
