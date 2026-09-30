@@ -54,7 +54,7 @@ All limits checked: position ≤50, organization ≤100, description ≤150 char
 | Field | Entry |
 |---|---|
 | Category | Community service (or Cultural, if offered) |
-| Position | Designer & Crocheter |
+| Position | Crochet Designer; Preserving a Korean Tradition |
 | Organization | Independent Summer Crochet Project: Traditional Korean Susemi (Dish Scrubbers) |
 | Description | Learned from my aunt, now design my own susemi patterns; crochet 100+ each summer for church members, elderly Korean neighbors & Superfood customers |
 | Grades | 9, 10, 11, 12 (Break) |
