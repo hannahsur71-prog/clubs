@@ -1,34 +1,32 @@
-# MODEL DRAFT v2: "Honesty Is Faith" (for Crystal to rewrite in her own words)
+# MODEL DRAFT v3: "Honesty Is Faith" (for Crystal to rewrite in her own words)
 
 > ⚠️ This is a **model**, not her essay. Every [bracket] must be her real memory, and every sentence should be rewritten in her voice. The Common App's fraud policy covers AI-generated content.
 
-**Core idea:** Her religious parents gave her a tattoo they don't fully agree with. The essay isn't about rebelling. It's about honesty, accepting people without agreeing with them, and wanting to understand how other people see the world.
+**Core idea:** The essay is about how her view CHANGED: from judging tattooed family friends as "bad people" to understanding that she'd been judging people (and her own beliefs) from the outside. Her own tattoo appears only near the end, as proof of the change.
 
 | Section | ~Words |
 |---|---|
-| 1. Hook + the gift | 90 |
-| 2. How she was raised to see it (one line on the sleeve) | 130 |
-| 3. Honesty is faith | 110 |
-| 4. "What does it mean?" | 110 |
-| 5. Backbone + room | 110 |
-| 6. Turning the question around | 70 |
+| 1. Hook: judging tattooed family friends | 120 |
+| 2. Where the view came from (church, never questioned) | 110 |
+| 3. What started changing it (specific moments) | 140 |
+| 4. What she realized about herself (playing a character, honesty) | 100 |
+| 5. The tattoo, briefly + parents (respect without agreeing) | 80 |
+| 6. Ending: what she does now instead of judging | 70 |
 
 ---
 
-For my seventeenth birthday, my mother paid for a sin.
+When I was [age], I thought you could tell a bad person by their arms.
 
-The tattoo parlor in Montreal [smelled like green soap]. My mom sat in the corner [gripping her purse], watching the needle trace "honesty is faith" onto my [placement]. She doesn't have tattoos. She doesn't want any. [What she said or did: "Does it hurt?" / She held my hand anyway.] She stayed.
+[Specific memory with family friends: at a barbecue / church picnic / dinner at our house, Mr. [___]'s sleeve of [roses and koi fish] showed when he reached for the kimchi. I leaned over and whispered to my mom, "Is he a bad person?"] There were [two or three] family friends with tattoos, and I kept my distance from all of them. I didn't hear their jokes or notice [that one always saved me the last ___]. I'd already decided who they were.
 
-Growing up, I was taught at [church] that tattoos were a sin, and I believed it completely. Whenever my mom's best friend's husband, the only person I knew with a sleeve, came over, I [stayed on the other side of the room]. I held all my beliefs that way: certain, unquestioned, decided before I'd thought about them. I prayed when I was supposed to and said the right things at [Bible study]. I told myself the confidence I was performing was faith. Really, I was playing a character of the person I thought I was supposed to be, and I mistook the role for becoming her.
+I didn't come up with that on my own. At [church], tattoos were a sin, and a sin was something a person chose to carry on their body forever. Nobody in my family had one. Nobody questioned it, and neither did I. It wasn't just tattoos. I sorted everything that way: right or wrong, decided before I'd ever asked why.
 
-Questioning that felt uncomfortable, almost gross. [The first question I was scared to say out loud.] But it was the most honest thing I'd ever done, and that's what the words on my [placement] mean to me. Honesty is faith: with God, when I admit I'm still figuring Him out; with people, because trusting someone enough to tell them the truth is its own kind of belief in them.
+The view didn't break all at once. It wore down. [Moment 1: a teacher / nurse / coworker I admired turned out to have tattoos.] [Moment 2: I started noticing where people placed them, a name on a wrist, a date over a heart, and realized each one was a choice someone thought hard about.] [Moment 3: a conversation where I asked someone about theirs and heard the story behind it.] Each time, the person I'd decided was "dark" turned out to be [someone carrying a grandmother's handwriting / a recovery date / a reminder].
 
-People ask what my tattoo means all the time. I almost never explain. [A classmate] guessed it was about [a breakup]. [A woman at church / a customer at my family's store] thought it was [a Bible verse]. [My mom] said [___]. Each answer said more about the person asking than about me. People read you the way they read themselves, and I've learned more from their guesses than I ever could from explaining.
+What scared me wasn't that I'd been wrong about tattoos. It was realizing how many other things I'd decided the same way. I'd said the right things at [Bible study] and told myself the confidence I was performing was faith. I was playing a character of the person I thought I was supposed to be. Questioning that was uncomfortable, almost gross. It was also the most honest thing I'd ever done.
 
-My parents didn't agree with my tattoo. They gave it to me anyway. That's the kind of person I want to be. I have a backbone: when something matters, like [human rights], I won't pretend I didn't care three seconds after a debate just to keep the room comfortable. In Roslyn, I learned I'd rather be the only person who disagrees than keep conforming. But my parents showed me that holding my ground doesn't mean letting go of people. You can refuse to bend and still make room.
+For my seventeenth birthday, my parents gave me a tattoo in Montreal. It says "honesty is faith." They still don't have tattoos, and they still wouldn't get one. They gave it to me anyway. That's the kind of person I want to be: firm in what I believe, and willing to make room for people who see it differently.
 
-I'm seventeen. I don't know exactly who I am, but I know what I'm not: someone who decides what anything means before asking.
+Now, when I see a tattoo, I don't decide anything. I ask. [Last week, a ___ at my family's store had ___ on her forearm. I asked. She told me ___.]
 
-[Last week], someone asked me what my tattoo means. I didn't explain. I asked what they thought it meant, and I listened.
-
-That's the question I want to spend the next four years asking.
+I used to think I could read people from the outside. Now I want to spend the next four years learning to ask.
