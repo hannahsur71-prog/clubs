@@ -21,7 +21,7 @@ By the time I was [age], I had already decided who the good people were.
 
 I'd taken what I heard at [church] and turned it into a rulebook, the way kids do: simple, strict, and never questioned. Tattoos were on the wrong side of it. When [a family friend]'s [sleeve of ___] showed at dinner, I [scooted my chair closer to my mom]. I didn't know a single thing about him, but I'd already decided what he meant.
 
-The list started falling apart because of women. As I got older, most of the tattoos I noticed were on them: [one real woman, her tattoo, where it was]. She didn't look like a sinner. She looked like someone who had made a decision about her own body and carried it like she meant it. I wanted to be that sure about anything. Then I realized I wasn't sure about much at all.
+The rulebook started bending because of women. As I got older, most of the tattoos I noticed were on them: [one real woman, her tattoo, where it was]. She didn't look like a sinner. She looked like someone who had made a decision about her own body and carried it like she meant it. I wanted to be that sure about anything. Then I realized I wasn't sure about much at all.
 
 My faith wasn't the problem. The way I held it was. I'd been holding it like a rulebook I had memorized but never really thought about, and I was playing a character of the person I thought I was supposed to be. The first time I let myself ask [the question I was scared to say out loud], I felt exposed, almost gross. But asking didn't take my faith away. It made it mine. I haven't stopped asking since: about what I believe, about [what I care about], about where I stand in a place like Roslyn, where I often stand alone.
 
