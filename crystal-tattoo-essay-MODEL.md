@@ -16,6 +16,6 @@ If they could decide what their bodies meant, maybe I could decide what I believ
 
 Now I'm the person who asks. I ask [friends / customers / classmates] what they believe and why, and I wait for the answer. When something matters, like [human rights], I won't pretend I didn't mean it three seconds after a debate just to keep the room comfortable. I'd rather be the only person who disagrees than nod along. But a backbone isn't a wall. Sometimes the best thing I can do is plant one question someone has never asked themselves. Sometimes the person who changes is me.
 
-For my seventeenth birthday, my parents took me to a tattoo shop in Montreal. [What my mom said or did there.] My forearm, [or placement], now says "honesty is faith." My parents still don't have tattoos, and they never will. They gave me one anyway. They didn't have to agree with me to respect me, and that's how I want to treat everyone I meet.
+For my seventeenth birthday, my parents took me to a tattoo shop in Montreal. [What my mom said or did there.] My [placement] now says "honesty is faith." My parents still don't have tattoos, and they never will. They gave me one anyway. They didn't have to agree with me to respect me, and that's how I want to treat everyone I meet.
 
 I'm seventeen. I don't know exactly who I am, but I know who I'm not: someone who decides what a person means before asking. I want college to be the register at Superfood, but bigger: more people, harder questions, and four years to listen to the answers.
