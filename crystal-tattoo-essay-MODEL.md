@@ -1,39 +1,23 @@
-# MODEL DRAFT v9: "Then vs. Now" mirror (for Crystal to rewrite in her own words)
+# MODEL DRAFT v10: restrained and nuanced (for Crystal to rewrite in her own words)
 
-> ⚠️ This is a **model**, not her essay. Unbracketed details come from what she's told us. Every [bracket] must be replaced with her real memory, and every sentence should be rewritten in her voice. The Common App's fraud policy covers AI-generated content.
+> ⚠️ This is a **model**, not her essay. Every [bracket] must be her real memory, and every sentence should be rewritten in her voice. The Common App's fraud policy covers AI-generated content.
 
-**What it's about:** growing from a closed-minded kid into someone open-minded with a backbone. The same kind of moment appears twice, THEN and NOW; the middle shows what changed. Faith is treated respectfully: she still believes, and her perspective broadened. Tattoos are only the lens.
+**The nuance:** She didn't simply go from closed-minded to open-minded. She grew out of one rulebook and caught herself building another: judging people she disagrees with the way she once judged tattoos. Her parents show a kind of acceptance she hasn't fully figured out. The essay doesn't resolve that neatly, and that's what keeps it from being corny.
 
-| Section | Focus | ~Words |
-|---|---|---|
-| THEN | A dinner: she judges the family friend with the sleeve | 120 |
-| WHAT CHANGED | Women's tattoos → realizing she held everything that way → faith becomes hers → backbone + room | 200 |
-| THE GIFT | Parents: respect without agreement (1 short paragraph) | 60 |
-| NOW (mirror) | Same kind of dinner; now someone looks at HER the way she used to look | 110 |
-| REFLECTION | Still growing; college | 70 |
+**Anti-corny rules:** no aphorisms ("a backbone isn't a wall"), no tidy mirror scene, no "this taught me." Plain sentences. Let tension stay unresolved.
 
 ---
 
-**THEN**
+My mom's best friend's husband had a sleeve of [koi fish]. I was [age], and I didn't say a word to him for [an entire Thanksgiving]. I wasn't scared, exactly. I'd just heard at [church] that tattoos were wrong, and at that age I didn't know the difference between a rule and a person.
 
-When I was [age], [a family friend] reached across the table for the [japchae], and his sleeve slid up. [Describe the tattoo.] I [scooted my chair closer to my mom] and didn't say another word to him all night. I'd taken what I heard at [church] and turned it into a rulebook, the way kids do: simple, strict, and never questioned. By that rulebook, he was a bad person. I didn't know a single thing about him. I didn't think I needed to.
+It's easy to tell this as a story about growing out of that. The less flattering part is what I grew into.
 
-**WHAT CHANGED**
+The tattoos I noticed as I got older were mostly on women: [a real woman, her tattoo, where]. I never asked what any of them meant. I didn't need to. Each one looked deliberate, like a decision about her own body that she didn't owe anyone an explanation for. Somewhere in there, I stopped thinking of tattoos as wrong. Then I started noticing how many other things I'd never actually thought about, including my faith.
 
-The rulebook started bending because of women. As I got older, most of the tattoos I noticed were on them: [one real woman, her tattoo, where it was]. She didn't look like someone who had done something wrong. She looked like someone who had made a decision about her own body and carried it like she meant it. I wanted to be that sure about anything.
+I still believe. I believe more carefully. I used to recite what I'd been taught; now I [the real way her faith is different: question it, read it, argue with it, pray differently]. The first time I said [the question I was scared to ask] out loud, it felt gross, like I'd broken something. Nothing broke.
 
-That's when I realized I hadn't just judged tattoos that way. I'd held everything that way, including my faith. My faith wasn't the problem. The way I held it was: memorized, never examined, a character I played because I thought I was supposed to. The first time I let myself ask [the question I was scared to say out loud], I felt exposed, almost gross. But asking didn't take my faith away. It made it mine.
+The part I'm less proud of happened in Roslyn. Once I had opinions I'd actually earned, about [human rights / what she cares about], I held them hard. I still do. I won't pretend a conversation didn't matter three seconds after it ends. But I noticed I'd kept the rulebook. I'd only changed who was on the wrong side of it. I'd decide what a classmate was from one comment the same way I'd once decided from one sleeve.
 
-Once I started asking, I couldn't stop. In Roslyn, that sometimes meant being the only person in the room who disagreed. When something matters to me, like [what she cares about], I won't pretend I didn't mean it three seconds after a debate. [A real moment when she held her ground.] But I've also learned that a backbone isn't a wall. I can disagree with someone and still make room for them.
+For my seventeenth birthday, my parents took me to get a tattoo in Montreal. They don't like tattoos. [What my mom said or did in the shop.] I don't think they changed their minds. I think they decided I mattered more than being right. I haven't figured out how to do that with people I disagree with about things that matter more than ink, and some days I'm not sure I should. Some things deserve a backbone.
 
-**THE GIFT**
-
-My parents taught me that. They still believe tattoos aren't for them. For my seventeenth birthday, they gave me one anyway, in Montreal: "honesty is faith." They didn't need to agree with me to respect me.
-
-**NOW**
-
-Last [month], at [a family gathering / church dinner], I reached for the [japchae] and my sleeve slid up. Across the table, [a little girl] stared at my [placement]. I knew that look. I used to wear it. I didn't explain, and I didn't scoot away from her judgment the way I once scooted away from him. I just [smiled and passed her the plate]. She'll decide what it means someday, hopefully after she's asked herself a few questions first.
-
-**REFLECTION**
-
-I'm seventeen, and I'm still growing. I don't know exactly who I am, but I know who I'm not: someone who decides what a person means from the outside. I don't want college to help me find myself. I want it to keep showing me how many ways there are to see the world, and how much I still have to learn from them.
+I don't know exactly who I am. I know I've been certain before and been wrong. I want to be somewhere that makes me defend what I believe to people who see it differently, and that makes it harder for me to stop listening.
