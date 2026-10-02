@@ -1,6 +1,8 @@
 # Crystal's Personal Statement: FINAL (her own words)
 
-Every Friday night, my parents, my sister and I went to have dinner at a family friend's house. One of their grown sons had a black wave inked down his arm. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd just stare at his tattoos, judging not only them, but him as I decided he was a bad person.
+I was seven when I decided a black wave could send a man to hell.
+
+Every Friday night, my parents, my sister and I went to have dinner at a family friend's house. One of their grown sons had a black wave inked down his arm. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd stare at his tattoos, judging not only them, but him as I decided he was a bad person.
 
 Scrolling late one night, I stopped at a photo of a girl with long black hair down to her waist, like mine, and a fine-line word on her collarbone. I couldn't make out what it said. That's what I liked about it: only she knew. I saw myself in her, as if she carried herself the way I wanted to carry myself. I just hadn't known it until then. I admired the confidence of doing something for yourself and not for the judgment of others.
 
@@ -8,7 +10,7 @@ In Montreal for my 17th birthday, my mom gave me a tattoo: "Honesty is Faith," o
 
 The man at those Friday dinners never owed me an explanation for his tattoos. I don't owe anyone one for mine. Being honest with myself has never been easy and I've realized that I don't need to have everything figured out or understand everything that bothers me, just as the words on my skin don't have to mean one fixed thing.
 
-Now I actively seek out tattoos on people. My APCSP teacher had one on her back. As I stared at it in class, I kept on wondering what it meant to her. It made sense to me that she had it; she was whimsical and let out a little giggle anytime she saw a cartoon animal. I don't know the significance behind her tattoo and it's important that I don't. Following the winter recess, I entered the classroom with my new tattoo, and she noticed it. She didn't ask what it meant, and I felt relieved. She understood.
+Now I actively seek out tattoos on people. My APCSP teacher had one on her back. As I stared at it in class, I wondered what it meant to her. It made sense to me that she had it; she was whimsical and let out a little giggle anytime she saw a cartoon animal. I don't know what  her tattoo means it's important that I don't. Following the winter recess, I entered the classroom with my new tattoo, and she noticed it. She didn't ask what it meant, and I felt relieved. She understood.
 
 My mom stood to my left, watching each word pierce my skin, something she'd never do herself. She didn't ask me to explain them. Every time I look down, I remember that she didn't need to see the world the way I do to hold my shirt up for me and help me decide what font I wanted.
 
