@@ -1,8 +1,8 @@
 # Crystal's Personal Statement: FINAL (her own words)
 
-I was seven when I decided a black wave could send a man to hell.
+If my seven-year-old self met me today, she'd be convinced I was going to hell.
 
-Every Friday night, my family had dinner at a family friend's house. One of their grown sons had a tattoo going down his arm. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd stare, judging not only it, but him.
+Back then, my family had dinner every Friday night at a family friend's house. One of their grown sons had a black wave inked down his arm. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd stare, judging not only it, but him.
 
 Scrolling late one night, I stopped at a photo of a girl with long black hair down to her waist, like mine, and a fine-line word on her collarbone. I couldn't make out what it said. That's what I liked about it: only she knew. I saw myself in her, as if she carried herself the way I wanted to carry myself. I felt guilty. If she was a sinner too, why was she different from the man at dinner? I liked the photo anyway. I admired her confidence in doing something for herself, not for the judgment of others.
 
