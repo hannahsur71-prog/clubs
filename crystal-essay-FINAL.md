@@ -10,6 +10,6 @@ The man at those Friday dinners never owed me an explanation for his tattoos. I 
 
 Now I actively seek out tattoos on people. My APCSP teacher had one on her back. As I stared at it in class, I kept on wondering what it meant to her. It made sense to me that she had it; she was whimsical and let out a little giggle anytime she saw a cartoon animal. I don't know the significance behind her tattoo and it's important that I don't. Following the winter recess, I entered the classroom with my new tattoo, and she noticed it. She didn't ask what it meant, and I felt relieved. She understood.
 
-My mom stood to my left, watching each letter pierce into my skin, ones she'd never choose for herself. She didn't ask me to justify them. Every time I look down, I remember that she didn't need to see the world the way I do to hold my shirt up for me and help me decide what font I wanted.
+My mom stood to my left, watching each word pierce my skin, something she'd never do herself. She didn't ask me to explain them. Every time I look down, I remember that she didn't need to see the world the way I do to hold my shirt up for me and help me decide what font I wanted.
 
 I felt alone for the longest time thinking that I was the only one who didn't have myself figured out. But where I stand in the world isn't something that I want to master anymore. Just like I changed my mind about tattoos over the years, I could wake up in 10 years with a fully developed frontal lobe and think "This just isn't what I believe anymore." I'm okay with not knowing whether I will.
