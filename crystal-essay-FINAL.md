@@ -1,6 +1,6 @@
 # Crystal's Personal Statement: FINAL (her own words)
 
-Every Friday night, my parents, my sister and I went to have dinner at a family friend's house. One of their grown sons had designs inked down his arms. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd just stare at his tattoos, judging not only them, but him as I decided he was a bad person.
+Every Friday night, my parents, my sister and I went to have dinner at a family friend's house. One of their grown sons had a black wave inked down his arm. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd just stare at his tattoos, judging not only them, but him as I decided he was a bad person.
 
 Scrolling late one night, I stopped at a photo of a girl with long black hair down to her waist, like mine, and a fine-line word on her collarbone. I couldn't make out what it said. That's what I liked about it: only she knew. I saw myself in her, as if she carried herself the way I wanted to carry myself. I just hadn't known it until then. I admired the confidence of doing something for yourself and not for the judgment of others.
 
