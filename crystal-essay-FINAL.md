@@ -2,7 +2,7 @@
 
 I was seven when I decided a black wave could send a man to hell.
 
-Every Friday night, my parents, my sister and I went to have dinner at a family friend's house. One of their grown sons had a tattoo going down his arm. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd stare at his tattoo, judging not only it, but him as I decided he was a bad person.
+Every Friday night, my family had dinner at a family friend's house. One of their grown sons had a tattoo going down his arm. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd stare at his tattoo, judging not only it, but him as I decided he was a bad person.
 
 Scrolling late one night, I stopped at a photo of a girl with long black hair down to her waist, like mine, and a fine-line word on her collarbone. I couldn't make out what it said. That's what I liked about it: only she knew. I saw myself in her, as if she carried herself the way I wanted to carry myself. I just hadn't known it until then. I admired the confidence of doing something for yourself and not for the judgment of others.
 
