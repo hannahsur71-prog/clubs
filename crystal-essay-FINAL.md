@@ -1,6 +1,6 @@
 # Crystal's Personal Statement: FINAL (her own words)
 
-If my seven-year-old self met me today, she'd be convinced I was going to hell because of three words.
+According to my seven-year-old self, I'm going to hell for three words.
 
 Back then, my family had dinner every Friday night at a family friend's house. One of their grown sons had a black wave inked down his arm. I'd been taught that people with tattoos were sinners. At every dinner, I kept my distance. I'd crouch beside my mom's chair and peek through the space where her arm met her rib cage. I'd stare, judging not only it, but him.
 
