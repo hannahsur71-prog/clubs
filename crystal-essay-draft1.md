@@ -17,6 +17,6 @@ I felt alone for the longest time thinking that I was the only one that didn't h
 
 ## New section: what changed her mind (her details, lightly shaped)
 
-I don't remember where in the city I was. I remember her: long black hair down to her waist, like mine, and a fine-line word on her collarbone. I couldn't make out what it said. That's what I liked about it: only she knew. It felt like seeing myself in her, like she was what I'd always wanted to be. I just hadn't known what it was until then. I admired the confidence of doing something for yourself and not for the judgment of others.
+Scrolling late one night, I stopped on a photo of a girl with long black hair down to her waist, like mine, and a fine-line word on her collarbone. I couldn't make out what it said. That's what I liked about it: only she knew. It felt like seeing myself in her, like she was what I'd always wanted to be. I just hadn't known what it was until then. I admired the confidence of doing something for yourself and not for the judgment of others.
 
-(Optional tie-back: "I'd spent years judging tattoos from behind my mom's arm. Now I was staring at one for a completely different reason.")
+(Optional tie-back: "I'd spent years judging tattoos from behind my mom's arm. Now I was zooming in on one for a completely different reason.")
