@@ -12,3 +12,11 @@ Everytime I look at myself in the mirror, or look down, it's a reminder that my 
 Connections and relationships aren't solely reliant on you and how you view things but it also doesn't mean you have to sacrifice your own views. My mother would never get one herself, but she didn't let her own values get in the way of mine.
 
 I felt alone for the longest time thinking that I was the only one that didn't have not just life, but myself figured it out. But where I stand in the world isn't something that I want to master anymore. Just like I changed my mind about tattoos in the past years, I could wake up in 10 years with a fully developed frontal lobe and think "This is just not what I believe anymore" and I'm okay with not knowing if I will or not.
+
+---
+
+## New section: what changed her mind (her details, lightly shaped)
+
+On the F train, I noticed a girl with long black hair down to her waist, like mine, and a fine-line word on her collarbone. I couldn't make out what it said. That's what I liked about it: only she knew. It felt like seeing myself in her, like she was what I'd always wanted to be. I just hadn't known what it was until then. I admired the confidence of doing something for yourself and not for the judgment of others.
+
+(Optional tie-back: "I'd spent years judging tattoos from behind my mom's arm. Now I was staring at one for a completely different reason.")
