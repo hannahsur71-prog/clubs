@@ -12,5 +12,6 @@ My APCSP teacher, who giggled whenever she titled a Google Classroom assignment 
 
 At seven, I prayed with my hands pressed tightly together, never unsure of a single word. One night, eyes closed in bed, I couldn't get past "Dear God, thank you for this day." My hands slowly loosened. I kept repeating "I'm sorry" until my finger grazed my tattoo. Then I prayed the only honest thing I was sure of, "I don't know."
 
-We don't have those Friday dinners anymore. If we did, I wouldn't crouch beside my mom's chair. I'd sit next to him, chewing every last bit of meat off my rib, without staring at his arm. One day I might wake up with a fully developed frontal lobe, trying to scrub off my three words. But he never owed me an explanation for his tattoo, and I don't owe anyone one for mine.
+One day I might wake up with a fully developed frontal lobe, trying to scrub off my three words. We don't have those Friday dinners anymore. If we did, I wouldn't crouch beside my mom's chair. I'd sit next to him, chewing every last bit of meat off my rib, and let him eat in peace.
+
 
