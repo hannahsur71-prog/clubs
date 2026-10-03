@@ -10,6 +10,7 @@ In Montreal for my 17th birthday, my mom gave me a tattoo, "Honesty is Faith," o
 
 My APCSP teacher, who giggled whenever she titled a Google Classroom assignment with an absurd amount of emojis, had a tattoo on her back. I never asked what it meant. After winter recess, she noticed mine. She didn't ask either, and I felt relieved. I didn't have to have a response ready.
 
-The man at those Friday dinners never owed me an explanation for his tattoo. I don't owe anyone one for mine. At seven, I prayed with my hands pressed tightly together, never unsure of a single word. One night, eyes closed in bed, I couldn't get past "Dear God, thank you for this day." My hands slowly loosened. I kept repeating "I'm sorry" until my finger grazed my tattoo. Then I prayed the only honest thing I was sure of, "I don't know."
+At seven, I prayed with my hands pressed tightly together, never unsure of a single word. One night, eyes closed in bed, I couldn't get past "Dear God, thank you for this day." My hands slowly loosened. I kept repeating "I'm sorry" until my finger grazed my tattoo. Then I prayed the only honest thing I was sure of, "I don't know."
 
-One day I might wake up in a panic with a fully developed frontal lobe, trying to scrub off my three words, thinking "This isn't what I believe anymore." My seven-year-old self would understand. For years, I'd lie awake at 3:17 a.m., hearing the same car racing down the freeway behind my house, trying to answer "Who are you?" Now, I fall asleep before I can even hear that car.
+We don't have those Friday dinners anymore. If we did, I wouldn't crouch beside my mom's chair. I'd sit next to him, chewing every last bit of meat off my rib, without staring at his arm. One day I might wake up with a fully developed frontal lobe, trying to scrub off my three words. But he never owed me an explanation for his tattoo, and I don't owe anyone one for mine.
+
