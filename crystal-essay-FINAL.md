@@ -8,10 +8,6 @@ Scrolling late one night, I stopped at a photo of a girl with long black hair do
 
 In Montreal for my 17th birthday, my mom gave me a tattoo, "Honesty is Faith," on my lower abdomen. Three words my seven-year-old self would have damned me for, and one of them is Faith. My mom stood to my left, watching each word pierce my skin, something she'd never do herself. She didn't ask me to explain them. Every time I look down, I remember she didn't need to see the world the way I do to hold my shirt up for me and help me decide what font I wanted. After we left the hole-in-the-wall tattoo shop, we ran into the nearest café to escape the piercing wind and powdery snow. I tried to explain what it meant. I couldn't tell if I was stumbling over the words because my teeth were chattering, or because I didn't know what to say. When I'm asked what my tattoo says, I stutter, toggling back-and-forth between whether I want to attempt to explain it or say "It's just something I always tell myself." I always land on the second option.
 
-My APCSP teacher, who giggled whenever she titled a Google Classroom assignment with an absurd amount of emojis, had a tattoo on her back. I never asked what it meant. After winter recess, she noticed mine. She didn't ask either, and I felt relieved. I didn't have to have a response ready.
+My APCSP teacher, who giggled whenever she titled a Google Classroom assignment with an absurd amount of emojis, had a tattoo on her back. I never asked what it meant. After winter recess, she noticed mine. She didn't ask either, and I felt relieved. I didn't have to have a response ready. One day I might wake up with a fully developed frontal lobe, trying to scrub off my three words.
 
 At seven, I prayed with my hands pressed tightly together, never unsure of a single word. One night, eyes closed in bed, I couldn't get past "Dear God, thank you for this day." My hands slowly loosened. I kept repeating "I'm sorry" until my finger grazed my tattoo. Then I prayed the only honest thing I was sure of, "I don't know."
-
-One day I might wake up with a fully developed frontal lobe, trying to scrub off my three words. We don't have those Friday dinners anymore. If we did, I wouldn't crouch beside my mom's chair. I'd sit next to him, chewing every last bit of meat off my rib, and let him eat in peace.
-
-
