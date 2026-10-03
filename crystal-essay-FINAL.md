@@ -10,9 +10,7 @@ After that, I started pressing temporary tattoos from my church's summer program
 
 In Montreal for my 17th birthday, my mom gave me a tattoo, "Honesty is Faith," on my lower abdomen. Three words my seven-year-old self would have damned me for, and one of them is Faith. The needle felt nothing like I'd imagined months before, pinching my skin with my filed nails to practice how it would feel. There was comfort in the burn. It didn't feel like a sin. My mom stood to my left, holding my shirt up for me, helping me pick the font, and watching each word pierce my skin, something she'd never do herself. She doesn't see tattoos the way I do, but she's always backed my decisions anyway.
 
-After we left the hole-in-the-wall tattoo shop, we ran into the nearest café to escape the piercing wind and powdery snow. I tried to explain what it meant. I couldn't tell if I was stumbling over the words because my teeth were chattering, or because I didn't know what to say. She didn't wait for an answer. She just asked me if I was happy.
-
-Whenever I'm asked what my tattoo says, I stutter, toggling back-and-forth between whether I want to attempt to explain it or say "It's just something I always tell myself." I always land on the second option.
+After we left the hole-in-the-wall tattoo shop, we ran into the nearest café to escape the piercing wind and powdery snow. I tried to explain what it meant. I couldn't tell if I was stumbling over the words because my teeth were chattering, or because I didn't know what to say. She didn't wait for an answer. She just asked me if I was happy. Whenever I'm asked what my tattoo says, I stutter, toggling back-and-forth between whether I want to attempt to explain it or say "It's just something I always tell myself." I always land on the second option.
 
 At seven, I prayed with my hands pressed tightly together, never unsure of a single word. One night after Montreal, eyes closed in bed, I couldn't get past "Dear God, thank you for this day." My hands slowly loosened. I kept repeating "I'm sorry" until my finger grazed my tattoo. Then I prayed the only honest thing I was sure of, "I don't know why I'm sorry."
 
