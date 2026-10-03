@@ -12,8 +12,8 @@ In Montreal for my 17th birthday, my mom gave me a tattoo, "Honesty is Faith," o
 
 After we left the hole-in-the-wall tattoo shop, we ran into the nearest café to escape the piercing wind and powdery snow. I tried to explain what it meant. I couldn't tell if I was stumbling over the words because my teeth were chattering, or because I didn't know what to say. She didn't wait for an answer. She just asked me if I was happy.
 
-Whenever I'm asked what my tattoo says, I stutter, toggling back-and-forth between whether I want to attempt to explain it or say "It's just something I always tell myself." I always land on the second option. The man at those Friday dinners never owed me an explanation for his tattoo. I don't owe anyone one for mine.
+Whenever I'm asked what my tattoo says, I stutter, toggling back-and-forth between whether I want to attempt to explain it or say "It's just something I always tell myself." I always land on the second option.
 
 At seven, I prayed with my hands pressed tightly together, never unsure of a single word. One night after Montreal, eyes closed in bed, I couldn't get past "Dear God, thank you for this day." My hands slowly loosened. I kept repeating "I'm sorry" until my finger grazed my tattoo. Then I prayed the only honest thing I was sure of, "I don't know why I'm sorry."
 
-I once judged a man through the space where my mom's arm met her rib cage, sure he was going to hell. Now I have three words on my own skin, and I still stutter when someone asks what they mean. One day, with a fully developed frontal lobe, I might want to scrub them off. Until then, I'd rather feel something I can't explain than be that sure again.
+I once judged a man through the space where my mom's arm met her rib cage, sure he was going to hell. He never owed me an explanation for his tattoo. Now I have three words on my own skin, and I don't owe anyone one for mine, even if I still stutter when someone asks what they mean. One day, with a fully developed frontal lobe, I might want to scrub them off. Until then, I'd rather feel something I can't explain than be that sure again.
