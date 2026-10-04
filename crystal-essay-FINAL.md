@@ -8,7 +8,7 @@ In my “moody” preteen years, I stopped going to those Friday dinners and spe
 
 That summer, I was the one handing out temporary tattoos to second graders at my church’s summer school. I took the leftovers home and pressed them onto my own skin. As a kid, a temporary heart on my wrist made me feel guilty. This time, I avoided scrubbing them off for an extra day. I showed my mom the one on my lower abdomen and told her I wanted a real one, as if I were joking. She said “yeah, right,” like it was a given I never would. When she saw it again, she teased, “You still have that?”
 
-For months, I’d pinch my skin with my filed nails, practicing how a needle might feel. Then, as my 17th birthday approached, my mom gave me a real one in Montreal, “Honesty is Faith,” in the same spot. Three words my seven-year-old self would have damned me for, and one of them is Faith.
+For months, I’d pinch my skin with my filed nails, practicing how a needle might feel. Then, in Montreal, just before my 17th birthday, my mom gave me a real one in the same spot. “Honesty is Faith.” Three words my seven-year-old self would have damned me for, and one of them is Faith.
 
 The needle felt nothing like I’d imagined. There was comfort in the burn. It didn’t feel like a sin. My mom stood to my left, holding my shirt up, helping me pick the font, and watching each word pierce my skin, something she’d never do herself.
 
