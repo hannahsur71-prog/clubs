@@ -18,4 +18,4 @@ At seven, I prayed with my hands pressed tightly together, never unsure of a sin
 
 I once judged a man through the space where my mom’s arm met her rib cage, sure he was going to hell. He never owed me an explanation for his tattoo, and my mom never gave one for saying yes. She taught me you don’t have to be understood to not be judged.
 
-One day, I might want to scrub my three words off. Until I find out, I’d rather feel something I can’t explain than be that sure again.
+One day, I may change my mind again and want to scrub my three words off. Until I find out, I’d rather feel something I can’t explain than be that sure again.
