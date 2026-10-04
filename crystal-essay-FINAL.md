@@ -14,4 +14,4 @@ We left the hole-in-the-wall tattoo shop and ran into the nearest café to escap
 
 At seven, I prayed with my hands pressed tightly together, never unsure of a single word. One night after Montreal, eyes closed in bed, I couldn't get past "Dear God, thank you for this day." My hands slowly loosened. I kept repeating "I'm sorry" until my finger grazed my tattoo. Then I prayed the only honest thing I was sure of, "I don't know why I'm sorry."
 
-I once judged a man through the space where my mom's arm met her rib cage, sure he was going to hell. He never owed me an explanation for his tattoo. Now I have three words on my own skin, and I don't owe anyone one for mine. One day, with a fully developed frontal lobe, I might want to scrub them off. Until then, I'd rather feel something I can't explain than be that sure again.
+I once judged a man through the space where my mom's arm met her rib cage, sure he was going to hell. He never owed me an explanation for his tattoo. Now I have three words on my own skin, and I don't owe anyone one for mine. One day, I might want to scrub them off. Until then, I'd rather feel something I can't explain than be that sure again.
